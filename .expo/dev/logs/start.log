@@ -1,0 +1,1027 @@
+{"_e":"root:init","_t":1779452548715,"format":"v0-jsonl","version":"56.1.10"}
+{"_e":"env:mode","_t":1779452548757,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1779452548834,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1779452565449,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1779452584696,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1779452607205,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1779452632073,"id":"2","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779452632074,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779452632076,"id":"3","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779452632076,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779452632077,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779452632086,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779452632087,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779452632189,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779452632189,"id":"3","progress":0.010000000000000002,"total":2,"current":1}
+{"_e":"metro:bundling:progress","_t":1779452632313,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779452632318,"id":"3","progress":0.04000000000000001,"total":2,"current":2}
+{"_e":"metro:bundling:progress","_t":1779452632417,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779452632417,"id":"3","progress":0.04000000000000001,"total":15,"current":2}
+{"_e":"metro:bundling:progress","_t":1779452632537,"id":"2","progress":0.09,"total":5,"current":3}
+{"_e":"metro:bundling:progress","_t":1779452632537,"id":"3","progress":0.04000000000000001,"total":15,"current":2}
+{"_e":"metro:bundling:progress","_t":1779452632638,"id":"2","progress":0.09,"total":5,"current":3}
+{"_e":"metro:bundling:progress","_t":1779452632638,"id":"3","progress":0.08838568298027759,"total":37,"current":11}
+{"_e":"metro:bundling:progress","_t":1779452632762,"id":"2","progress":0.09,"total":5,"current":3}
+{"_e":"metro:bundling:progress","_t":1779452632762,"id":"3","progress":0.09972299168975068,"total":38,"current":12}
+{"_e":"metro:bundling:progress","_t":1779452632860,"id":"2","progress":0.09,"total":20,"current":6}
+{"_e":"metro:bundling:progress","_t":1779452632860,"id":"3","progress":0.09972299168975068,"total":38,"current":12}
+{"_e":"metro:bundling:progress","_t":1779452632962,"id":"2","progress":0.09,"total":20,"current":6}
+{"_e":"metro:bundling:progress","_t":1779452632962,"id":"3","progress":0.1012396694214876,"total":44,"current":14}
+{"_e":"metro:bundling:progress","_t":1779452633065,"id":"2","progress":0.12098298676748581,"total":23,"current":8}
+{"_e":"metro:bundling:progress","_t":1779452633065,"id":"3","progress":0.1012396694214876,"total":44,"current":14}
+{"_e":"metro:bundling:progress","_t":1779452633170,"id":"2","progress":0.28994082840236685,"total":26,"current":14}
+{"_e":"metro:bundling:progress","_t":1779452633174,"id":"3","progress":0.1012396694214876,"total":44,"current":14}
+{"_e":"metro:bundling:progress","_t":1779452633271,"id":"2","progress":0.28994082840236685,"total":43,"current":15}
+{"_e":"metro:bundling:progress","_t":1779452633271,"id":"3","progress":0.1012396694214876,"total":44,"current":14}
+{"_e":"metro:bundling:progress","_t":1779452633596,"id":"2","progress":0.28994082840236685,"total":53,"current":19}
+{"_e":"metro:bundling:progress","_t":1779452633596,"id":"3","progress":0.1012396694214876,"total":44,"current":14}
+{"_e":"metro:bundling:progress","_t":1779452633696,"id":"2","progress":0.28994082840236685,"total":53,"current":19}
+{"_e":"metro:bundling:progress","_t":1779452633696,"id":"3","progress":0.19041322314049586,"total":55,"current":24}
+{"_e":"metro:bundling:progress","_t":1779452633805,"id":"2","progress":0.28994082840236685,"total":53,"current":19}
+{"_e":"metro:bundling:progress","_t":1779452633815,"id":"3","progress":0.19041322314049586,"total":104,"current":31}
+{"_e":"metro:bundling:progress","_t":1779452633973,"id":"2","progress":0.28994082840236685,"total":53,"current":19}
+{"_e":"metro:bundling:progress","_t":1779452633973,"id":"3","progress":0.19041322314049586,"total":107,"current":33}
+{"_e":"metro:bundling:progress","_t":1779452634080,"id":"2","progress":0.28994082840236685,"total":53,"current":19}
+{"_e":"metro:bundling:progress","_t":1779452634080,"id":"3","progress":0.19041322314049586,"total":113,"current":33}
+{"_e":"metro:bundling:progress","_t":1779452635450,"id":"2","progress":0.28994082840236685,"total":53,"current":19}
+{"_e":"metro:bundling:progress","_t":1779452635450,"id":"3","progress":0.19041322314049586,"total":113,"current":34}
+{"_e":"metro:bundling:progress","_t":1779452635561,"id":"2","progress":0.28994082840236685,"total":53,"current":19}
+{"_e":"metro:bundling:progress","_t":1779452635562,"id":"3","progress":0.19041322314049586,"total":122,"current":43}
+{"_e":"metro:bundling:progress","_t":1779452635661,"id":"2","progress":0.28994082840236685,"total":53,"current":19}
+{"_e":"metro:bundling:progress","_t":1779452635661,"id":"3","progress":0.19041322314049586,"total":141,"current":45}
+{"_e":"metro:bundling:progress","_t":1779452635697,"id":"2","progress":0.28994082840236685,"total":53,"current":19}
+{"_e":"metro:bundling:progress","_t":1779452635697,"id":"3","progress":0.19041322314049586,"total":141,"current":46}
+{"_e":"metro:bundling:progress","_t":1779452636260,"id":"2","progress":0.28994082840236685,"total":53,"current":19}
+{"_e":"metro:bundling:progress","_t":1779452636260,"id":"3","progress":0.19041322314049586,"total":141,"current":47}
+{"_e":"metro:bundling:progress","_t":1779452636362,"id":"2","progress":0.28994082840236685,"total":142,"current":27}
+{"_e":"metro:bundling:progress","_t":1779452636362,"id":"3","progress":0.19041322314049586,"total":141,"current":47}
+{"_e":"metro:bundling:progress","_t":1779452636479,"id":"2","progress":0.28994082840236685,"total":142,"current":27}
+{"_e":"metro:bundling:progress","_t":1779452636480,"id":"3","progress":0.19041322314049586,"total":204,"current":49}
+{"_e":"metro:bundling:progress","_t":1779452636586,"id":"2","progress":0.28994082840236685,"total":142,"current":27}
+{"_e":"metro:bundling:progress","_t":1779452636586,"id":"3","progress":0.19041322314049586,"total":207,"current":55}
+{"_e":"metro:bundling:progress","_t":1779452636686,"id":"2","progress":0.28994082840236685,"total":233,"current":83}
+{"_e":"metro:bundling:progress","_t":1779452636687,"id":"3","progress":0.19041322314049586,"total":207,"current":55}
+{"_e":"metro:bundling:progress","_t":1779452636786,"id":"2","progress":0.28994082840236685,"total":233,"current":83}
+{"_e":"metro:bundling:progress","_t":1779452636786,"id":"3","progress":0.19041322314049586,"total":280,"current":106}
+{"_e":"metro:bundling:progress","_t":1779452636887,"id":"2","progress":0.28994082840236685,"total":233,"current":83}
+{"_e":"metro:bundling:progress","_t":1779452636887,"id":"3","progress":0.25895451839921574,"total":338,"current":172}
+{"_e":"metro:bundling:progress","_t":1779452636992,"id":"2","progress":0.28994082840236685,"total":233,"current":83}
+{"_e":"metro:bundling:progress","_t":1779452636992,"id":"3","progress":0.2619743706452855,"total":338,"current":173}
+{"_e":"metro:bundling:progress","_t":1779452637315,"id":"2","progress":0.28994082840236685,"total":233,"current":83}
+{"_e":"metro:bundling:progress","_t":1779452637315,"id":"3","progress":0.2650117292811876,"total":338,"current":174}
+{"_e":"metro:bundling:progress","_t":1779452638580,"id":"2","progress":0.28994082840236685,"total":233,"current":83}
+{"_e":"metro:bundling:progress","_t":1779452638580,"id":"3","progress":0.268066594306922,"total":338,"current":175}
+{"_e":"metro:bundling:progress","_t":1779452638685,"id":"2","progress":0.28994082840236685,"total":233,"current":83}
+{"_e":"metro:bundling:progress","_t":1779452638685,"id":"3","progress":0.28444444444444444,"total":375,"current":200}
+{"_e":"metro:bundling:progress","_t":1779452638786,"id":"2","progress":0.28994082840236685,"total":233,"current":83}
+{"_e":"metro:bundling:progress","_t":1779452638786,"id":"3","progress":0.2886204164780444,"total":376,"current":202}
+{"_e":"metro:bundling:progress","_t":1779452638991,"id":"2","progress":0.28994082840236685,"total":233,"current":83}
+{"_e":"metro:bundling:progress","_t":1779452638991,"id":"3","progress":0.2914851177003169,"total":376,"current":203}
+{"_e":"metro:bundling:progress","_t":1779452639091,"id":"2","progress":0.28994082840236685,"total":233,"current":83}
+{"_e":"metro:bundling:progress","_t":1779452639091,"id":"3","progress":0.2914851177003169,"total":380,"current":203}
+{"_e":"metro:bundling:progress","_t":1779452639700,"id":"2","progress":0.28994082840236685,"total":233,"current":83}
+{"_e":"metro:bundling:progress","_t":1779452639700,"id":"3","progress":0.2914851177003169,"total":380,"current":204}
+{"_e":"metro:bundling:progress","_t":1779452639800,"id":"2","progress":0.28994082840236685,"total":305,"current":155}
+{"_e":"metro:bundling:progress","_t":1779452639800,"id":"3","progress":0.2914851177003169,"total":380,"current":204}
+{"_e":"metro:bundling:progress","_t":1779452639900,"id":"2","progress":0.33406278932749767,"total":327,"current":189}
+{"_e":"metro:bundling:progress","_t":1779452639900,"id":"3","progress":0.2914851177003169,"total":380,"current":204}
+{"_e":"metro:bundling:progress","_t":1779452640035,"id":"2","progress":0.33406278932749767,"total":408,"current":226}
+{"_e":"metro:bundling:progress","_t":1779452640035,"id":"3","progress":0.2914851177003169,"total":380,"current":204}
+{"_e":"metro:bundling:progress","_t":1779452640135,"id":"2","progress":0.33406278932749767,"total":408,"current":226}
+{"_e":"metro:bundling:progress","_t":1779452640135,"id":"3","progress":0.38225405722622297,"total":427,"current":264}
+{"_e":"metro:bundling:progress","_t":1779452640236,"id":"2","progress":0.33406278932749767,"total":408,"current":226}
+{"_e":"metro:bundling:progress","_t":1779452640236,"id":"3","progress":0.3879910873001067,"total":533,"current":332}
+{"_e":"metro:bundling:progress","_t":1779452640347,"id":"2","progress":0.33406278932749767,"total":408,"current":226}
+{"_e":"metro:bundling:progress","_t":1779452640348,"id":"3","progress":0.3912104251707837,"total":534,"current":334}
+{"_e":"metro:bundling:progress","_t":1779452640429,"id":"2","progress":0.33406278932749767,"total":408,"current":226}
+{"_e":"metro:bundling:progress","_t":1779452640429,"id":"3","progress":0.3935565094194055,"total":534,"current":335}
+{"_e":"metro:bundling:progress","_t":1779452641096,"id":"2","progress":0.36217522163755855,"total":442,"current":266}
+{"_e":"metro:bundling:progress","_t":1779452641096,"id":"3","progress":0.3935565094194055,"total":534,"current":335}
+{"_e":"metro:bundling:progress","_t":1779452641201,"id":"2","progress":0.38921861050239426,"total":444,"current":277}
+{"_e":"metro:bundling:progress","_t":1779452641201,"id":"3","progress":0.3935565094194055,"total":534,"current":335}
+{"_e":"metro:bundling:progress","_t":1779452642378,"id":"2","progress":0.38921861050239426,"total":444,"current":277}
+{"_e":"metro:bundling:progress","_t":1779452642378,"id":"3","progress":0.3991405362913792,"total":535,"current":338}
+{"_e":"metro:bundling:progress","_t":1779452642479,"id":"2","progress":0.38921861050239426,"total":444,"current":277}
+{"_e":"metro:bundling:progress","_t":1779452642479,"id":"3","progress":0.43670839649860627,"total":572,"current":378}
+{"_e":"metro:bundling:progress","_t":1779452642583,"id":"2","progress":0.38921861050239426,"total":444,"current":277}
+{"_e":"metro:bundling:progress","_t":1779452642583,"id":"3","progress":0.44212055590581395,"total":573,"current":381}
+{"_e":"metro:bundling:progress","_t":1779452643097,"id":"2","progress":0.38921861050239426,"total":444,"current":277}
+{"_e":"metro:bundling:progress","_t":1779452643097,"id":"3","progress":0.4444444444444444,"total":573,"current":382}
+{"_e":"metro:bundling:progress","_t":1779452643777,"id":"2","progress":0.38921861050239426,"total":444,"current":277}
+{"_e":"metro:bundling:progress","_t":1779452643777,"id":"3","progress":0.446774424434028,"total":573,"current":383}
+{"_e":"metro:bundling:progress","_t":1779452643880,"id":"2","progress":0.38921861050239426,"total":444,"current":277}
+{"_e":"metro:bundling:progress","_t":1779452643880,"id":"3","progress":0.44754701404654673,"total":574,"current":384}
+{"_e":"metro:bundling:progress","_t":1779452643980,"id":"2","progress":0.4453806094182826,"total":475,"current":317}
+{"_e":"metro:bundling:progress","_t":1779452643980,"id":"3","progress":0.44754701404654673,"total":574,"current":384}
+{"_e":"metro:bundling:progress","_t":1779452644080,"id":"2","progress":0.48428576314079547,"total":513,"current":357}
+{"_e":"metro:bundling:progress","_t":1779452644080,"id":"3","progress":0.44754701404654673,"total":574,"current":384}
+{"_e":"metro:bundling:progress","_t":1779452644180,"id":"2","progress":0.5383093100189037,"total":552,"current":405}
+{"_e":"metro:bundling:progress","_t":1779452644180,"id":"3","progress":0.44754701404654673,"total":574,"current":384}
+{"_e":"metro:bundling:progress","_t":1779452644297,"id":"2","progress":0.5383093100189037,"total":552,"current":405}
+{"_e":"metro:bundling:progress","_t":1779452644297,"id":"3","progress":0.55851166109501,"total":657,"current":491}
+{"_e":"metro:bundling:progress","_t":1779452644397,"id":"2","progress":0.5383093100189037,"total":552,"current":405}
+{"_e":"metro:bundling:progress","_t":1779452644397,"id":"3","progress":0.5918855346015222,"total":698,"current":537}
+{"_e":"metro:bundling:progress","_t":1779452644498,"id":"2","progress":0.6090325967859751,"total":592,"current":462}
+{"_e":"metro:bundling:progress","_t":1779452644498,"id":"3","progress":0.5918855346015222,"total":698,"current":537}
+{"_e":"metro:bundling:progress","_t":1779452645754,"id":"2","progress":0.6116719548940833,"total":592,"current":463}
+{"_e":"metro:bundling:progress","_t":1779452645754,"id":"3","progress":0.5918855346015222,"total":698,"current":537}
+{"_e":"metro:bundling:progress","_t":1779452645861,"id":"2","progress":0.6169677912710008,"total":592,"current":465}
+{"_e":"metro:bundling:progress","_t":1779452645861,"id":"3","progress":0.5918855346015222,"total":698,"current":537}
+{"_e":"metro:bundling:progress","_t":1779452645962,"id":"2","progress":0.6169677912710008,"total":592,"current":465}
+{"_e":"metro:bundling:progress","_t":1779452645962,"id":"3","progress":0.6332095971027615,"total":705,"current":561}
+{"_e":"metro:bundling:progress","_t":1779452646063,"id":"2","progress":0.6169677912710008,"total":592,"current":465}
+{"_e":"metro:bundling:progress","_t":1779452646063,"id":"3","progress":0.650801497069416,"total":714,"current":576}
+{"_e":"metro:bundling:progress","_t":1779452647137,"id":"2","progress":0.6320250000000001,"total":600,"current":477}
+{"_e":"metro:bundling:progress","_t":1779452647137,"id":"3","progress":0.650801497069416,"total":714,"current":576}
+{"_e":"metro:bundling:progress","_t":1779452647238,"id":"2","progress":0.6320250000000001,"total":628,"current":491}
+{"_e":"metro:bundling:progress","_t":1779452647238,"id":"3","progress":0.650801497069416,"total":714,"current":576}
+{"_e":"metro:bundling:progress","_t":1779452647372,"id":"2","progress":0.640507231999116,"total":631,"current":505}
+{"_e":"metro:bundling:progress","_t":1779452647372,"id":"3","progress":0.650801497069416,"total":714,"current":576}
+{"_e":"metro:bundling:progress","_t":1779452647472,"id":"2","progress":0.640507231999116,"total":631,"current":505}
+{"_e":"metro:bundling:progress","_t":1779452647472,"id":"3","progress":0.7461648185812493,"total":793,"current":685}
+{"_e":"metro:bundling:progress","_t":1779452647572,"id":"2","progress":0.782241975308642,"total":675,"current":597}
+{"_e":"metro:bundling:progress","_t":1779452647572,"id":"3","progress":0.7461648185812493,"total":793,"current":685}
+{"_e":"metro:bundling:progress","_t":1779452647677,"id":"2","progress":0.782241975308642,"total":685,"current":603}
+{"_e":"metro:bundling:progress","_t":1779452647677,"id":"3","progress":0.7461648185812493,"total":793,"current":685}
+{"_e":"metro:bundling:progress","_t":1779452647778,"id":"2","progress":0.7935775442878663,"total":687,"current":612}
+{"_e":"metro:bundling:progress","_t":1779452647778,"id":"3","progress":0.7461648185812493,"total":793,"current":685}
+{"_e":"metro:bundling:progress","_t":1779452648857,"id":"2","progress":0.796173053738699,"total":687,"current":613}
+{"_e":"metro:bundling:progress","_t":1779452648857,"id":"3","progress":0.7461648185812493,"total":793,"current":685}
+{"_e":"metro:bundling:progress","_t":1779452648959,"id":"2","progress":0.796173053738699,"total":687,"current":613}
+{"_e":"metro:bundling:progress","_t":1779452648959,"id":"3","progress":0.7498324429738763,"total":813,"current":704}
+{"_e":"metro:bundling:progress","_t":1779452649066,"id":"2","progress":0.796173053738699,"total":687,"current":613}
+{"_e":"metro:bundling:progress","_t":1779452649066,"id":"3","progress":0.7637519120165276,"total":817,"current":714}
+{"_e":"metro:bundling:progress","_t":1779452649166,"id":"2","progress":0.796173053738699,"total":687,"current":613}
+{"_e":"metro:bundling:progress","_t":1779452649166,"id":"3","progress":0.7637519120165276,"total":819,"current":714}
+{"_e":"metro:bundling:progress","_t":1779452649196,"id":"2","progress":0.796173053738699,"total":700,"current":622}
+{"_e":"metro:bundling:progress","_t":1779452649196,"id":"3","progress":0.7637519120165276,"total":819,"current":714}
+{"_e":"metro:bundling:progress","_t":1779452649300,"id":"2","progress":0.7962907976149395,"total":706,"current":630}
+{"_e":"metro:bundling:progress","_t":1779452649300,"id":"3","progress":0.7637519120165276,"total":819,"current":714}
+{"_e":"metro:bundling:progress","_t":1779452649447,"id":"2","progress":0.7988207111845853,"total":706,"current":631}
+{"_e":"metro:bundling:progress","_t":1779452649447,"id":"3","progress":0.7637519120165276,"total":819,"current":714}
+{"_e":"metro:bundling:progress","_t":1779452649548,"id":"2","progress":0.7988207111845853,"total":708,"current":631}
+{"_e":"metro:bundling:progress","_t":1779452649548,"id":"3","progress":0.7637519120165276,"total":819,"current":714}
+{"_e":"metro:bundling:progress","_t":1779452649635,"id":"2","progress":0.7988207111845853,"total":708,"current":632}
+{"_e":"metro:bundling:progress","_t":1779452649635,"id":"3","progress":0.7637519120165276,"total":819,"current":714}
+{"_e":"metro:bundling:progress","_t":1779452649735,"id":"2","progress":0.7988207111845853,"total":708,"current":632}
+{"_e":"metro:bundling:progress","_t":1779452649735,"id":"3","progress":0.7637519120165276,"total":820,"current":715}
+{"_e":"metro:bundling:progress","_t":1779452649835,"id":"2","progress":0.7988207111845853,"total":754,"current":664}
+{"_e":"metro:bundling:progress","_t":1779452649835,"id":"3","progress":0.7637519120165276,"total":820,"current":715}
+{"_e":"metro:bundling:progress","_t":1779452649937,"id":"2","progress":0.7988207111845853,"total":754,"current":664}
+{"_e":"metro:bundling:progress","_t":1779452649937,"id":"3","progress":0.8141307052402287,"total":829,"current":748}
+{"_e":"metro:bundling:progress","_t":1779452650036,"id":"2","progress":0.9067954214360042,"total":775,"current":738}
+{"_e":"metro:bundling:progress","_t":1779452650037,"id":"3","progress":0.8141307052402287,"total":829,"current":748}
+{"_e":"metro:bundling:progress","_t":1779452650137,"id":"2","progress":0.9067954214360042,"total":775,"current":738}
+{"_e":"metro:bundling:progress","_t":1779452650137,"id":"3","progress":0.9169923460150583,"total":849,"current":813}
+{"_e":"metro:bundling:progress","_t":1779452650237,"id":"2","progress":0.9092545265348594,"total":775,"current":739}
+{"_e":"metro:bundling:progress","_t":1779452650237,"id":"3","progress":0.9169923460150583,"total":849,"current":813}
+{"_e":"metro:bundling:progress","_t":1779452650344,"id":"2","progress":0.9168617045064921,"total":777,"current":744}
+{"_e":"metro:bundling:progress","_t":1779452650344,"id":"3","progress":0.9169923460150583,"total":849,"current":813}
+{"_e":"metro:bundling:progress","_t":1779452650443,"id":"2","progress":0.9168617045064921,"total":777,"current":744}
+{"_e":"metro:bundling:progress","_t":1779452650443,"id":"3","progress":0.9305772328284783,"total":849,"current":819}
+{"_e":"metro:bundling:progress","_t":1779452650547,"id":"2","progress":0.9168617045064921,"total":777,"current":744}
+{"_e":"metro:bundling:progress","_t":1779452650547,"id":"3","progress":0.9653005178031423,"total":857,"current":842}
+{"_e":"metro:bundling:progress","_t":1779452650649,"id":"2","progress":0.9168617045064921,"total":812,"current":774}
+{"_e":"metro:bundling:progress","_t":1779452650649,"id":"3","progress":0.9653005178031423,"total":857,"current":842}
+{"_e":"metro:bundling:progress","_t":1779452650696,"id":"2","progress":0.9168617045064921,"total":812,"current":774}
+{"_e":"metro:bundling:progress","_t":1779452650696,"id":"3","progress":0.9676695835778397,"total":859,"current":845}
+{"_e":"metro:bundling:progress","_t":1779452650799,"id":"2","progress":0.9168617045064921,"total":812,"current":774}
+{"_e":"metro:bundling:progress","_t":1779452650799,"id":"3","progress":0.9676695835778397,"total":860,"current":845}
+{"_e":"metro:bundling:progress","_t":1779452650850,"id":"2","progress":0.9168617045064921,"total":812,"current":774}
+{"_e":"metro:bundling:progress","_t":1779452650850,"id":"3","progress":0.9677068685776095,"total":860,"current":846}
+{"_e":"metro:bundling:progress","_t":1779452650967,"id":"2","progress":0.9168617045064921,"total":822,"current":779}
+{"_e":"metro:bundling:progress","_t":1779452650967,"id":"3","progress":0.9677068685776095,"total":860,"current":846}
+{"_e":"metro:bundling:progress","_t":1779452651055,"id":"2","progress":0.9168617045064921,"total":822,"current":779}
+{"_e":"metro:bundling:progress","_t":1779452651055,"id":"3","progress":0.9677068685776095,"total":878,"current":849}
+{"_e":"metro:bundling:progress","_t":1779452651160,"id":"2","progress":0.916951331496786,"total":825,"current":790}
+{"_e":"metro:bundling:progress","_t":1779452651160,"id":"3","progress":0.9677068685776095,"total":878,"current":849}
+{"_e":"metro:bundling:progress","_t":1779452651267,"id":"2","progress":0.916951331496786,"total":825,"current":790}
+{"_e":"metro:bundling:progress","_t":1779452651267,"id":"3","progress":0.9677068685776095,"total":884,"current":866}
+{"_e":"metro:bundling:progress","_t":1779452651383,"id":"2","progress":0.9761913299150203,"total":835,"current":825}
+{"_e":"metro:bundling:progress","_t":1779452651383,"id":"3","progress":0.9677068685776095,"total":884,"current":866}
+{"_e":"metro:bundling:progress","_t":1779452651492,"id":"2","progress":0.9761913299150203,"total":835,"current":825}
+{"_e":"metro:bundling:progress","_t":1779452651493,"id":"3","progress":0.9799000102030406,"total":891,"current":882}
+{"_e":"metro:bundling:progress","_t":1779452651594,"id":"2","progress":0.9857821714424677,"total":841,"current":835}
+{"_e":"metro:bundling:progress","_t":1779452651594,"id":"3","progress":0.9799000102030406,"total":891,"current":882}
+{"_e":"metro:bundling:progress","_t":1779452651707,"id":"2","progress":0.9929036297477595,"total":844,"current":841}
+{"_e":"metro:bundling:progress","_t":1779452651707,"id":"3","progress":0.9799000102030406,"total":891,"current":882}
+{"_e":"metro:bundling:progress","_t":1779452651809,"id":"2","progress":0.9929036297477595,"total":844,"current":841}
+{"_e":"metro:bundling:progress","_t":1779452651810,"id":"3","progress":0.9867404781687407,"total":902,"current":896}
+{"_e":"metro:bundling:progress","_t":1779452651929,"id":"2","progress":0.9929036297477595,"total":844,"current":841}
+{"_e":"metro:bundling:progress","_t":1779452651929,"id":"3","progress":0.997783934198947,"total":902,"current":901}
+{"_e":"metro:bundling:progress","_t":1779452652034,"id":"2","progress":0.9929036297477595,"total":844,"current":841}
+{"_e":"metro:bundling:progress","_t":1779452652034,"id":"3","progress":0.999,"total":902,"current":902}
+{"_e":"metro:bundling:done","_t":1779452652254,"id":"3","total":902,"ms":20177.2539}
+{"_e":"metro:bundling:progress","_t":1779452652254,"id":"2","progress":0.9929036297477595,"total":844,"current":841}
+{"_e":"metro:bundling:done","_t":1779452652772,"id":"2","total":844,"ms":20699.1026}
+{"_e":"metro:bundling:started","_t":1779452652843,"id":"4","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779452652843,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779452652853,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779452652953,"id":"4","progress":0.14512471655328796,"total":21,"current":8}
+{"_e":"metro:bundling:progress","_t":1779452653053,"id":"4","progress":0.14512471655328796,"total":121,"current":31}
+{"_e":"metro:bundling:progress","_t":1779452653153,"id":"4","progress":0.14512471655328796,"total":164,"current":42}
+{"_e":"metro:bundling:progress","_t":1779452653435,"id":"4","progress":0.14512471655328796,"total":164,"current":43}
+{"_e":"metro:bundling:progress","_t":1779452653535,"id":"4","progress":0.24093731409875074,"total":328,"current":161}
+{"_e":"metro:bundling:progress","_t":1779452653964,"id":"4","progress":0.24393961927424151,"total":328,"current":162}
+{"_e":"metro:bundling:progress","_t":1779452654065,"id":"4","progress":0.3997978773334948,"total":514,"current":325}
+{"_e":"metro:bundling:progress","_t":1779452654519,"id":"4","progress":0.40226195703190054,"total":514,"current":326}
+{"_e":"metro:bundling:progress","_t":1779452654620,"id":"4","progress":0.7040560179680274,"total":609,"current":511}
+{"_e":"metro:bundling:progress","_t":1779452654846,"id":"4","progress":0.7068143151037664,"total":609,"current":512}
+{"_e":"metro:bundling:progress","_t":1779452654947,"id":"4","progress":0.8379715409680453,"total":662,"current":606}
+{"_e":"metro:bundling:progress","_t":1779452655092,"id":"4","progress":0.8400653047328521,"total":719,"current":659}
+{"_e":"metro:bundling:progress","_t":1779452655150,"id":"4","progress":0.8426167544553651,"total":719,"current":660}
+{"_e":"metro:bundling:progress","_t":1779452655251,"id":"4","progress":0.8737124119736313,"total":766,"current":716}
+{"_e":"metro:bundling:progress","_t":1779452655372,"id":"4","progress":0.8737124119736313,"total":823,"current":763}
+{"_e":"metro:bundling:progress","_t":1779452655439,"id":"4","progress":0.8737124119736313,"total":823,"current":764}
+{"_e":"metro:bundling:progress","_t":1779452655539,"id":"4","progress":0.9858659021175997,"total":846,"current":840}
+{"_e":"metro:bundling:done","_t":1779452655651,"id":"4","total":846,"ms":2807.9574}
+{"_e":"metro:client_log","_t":1779452656275,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1779452713483,"id":"6","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779452713483,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779452713483,"id":"7","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779452713483,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779452713483,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779452713543,"id":"7","total":1,"ms":60.132}
+{"_e":"metro:bundling:progress","_t":1779452713543,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779452713991,"id":"6","total":1,"ms":508.0551}
+{"_e":"metro:bundling:started","_t":1779452878706,"id":"8","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:client_log","_t":1779452879324,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:started","_t":1779452896989,"id":"a","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:client_log","_t":1779452897316,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779452897319,"level":"warn","data":["Route \"./(tabs)/receitas.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:started","_t":1779452924990,"id":"c","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\categorias.tsx"}
+{"_e":"metro:client_log","_t":1779452925315,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779452925318,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779452925320,"level":"warn","data":["Route \"./(tabs)/receitas.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:failed","_t":1779452957046,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\categorias.tsx: Unexpected token, expected \"{\" (1:7)\n\n> 1 | import \n    |        ^","importStack":null,"filename":"src\\app\\(tabs)\\categorias.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779452958106,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\categorias.tsx: Unexpected token, expected \"{\" (1:7)\n\n> 1 | import \n    |        ^","importStack":null,"filename":"src\\app\\(tabs)\\categorias.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779452961529,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\categorias.tsx: Unexpected token (1:18)\n\n> 1 | import React from \n    |                   ^","importStack":null,"filename":"src\\app\\(tabs)\\categorias.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779452962616,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\categorias.tsx: Unexpected token (1:18)\n\n> 1 | import React from \n    |                   ^","importStack":null,"filename":"src\\app\\(tabs)\\categorias.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779452964298,"id":"h","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\categorias.tsx"}
+{"_e":"metro:client_log","_t":1779452965319,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779452965321,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779452965323,"level":"warn","data":["Route \"./(tabs)/receitas.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:started","_t":1779452971047,"id":"i","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\categorias.tsx"}
+{"_e":"metro:client_log","_t":1779452971315,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779452971317,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779452971320,"level":"warn","data":["Route \"./(tabs)/receitas.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:failed","_t":1779452974303,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\categorias.tsx: Unexpected token, expected \"{\" (2:7)\n\n  1 | import React from 'react';\n> 2 | import \n    |        ^","importStack":null,"filename":"src\\app\\(tabs)\\categorias.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779452975438,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\categorias.tsx: Unexpected token, expected \"{\" (2:7)\n\n  1 | import React from 'react';\n> 2 | import \n    |        ^","importStack":null,"filename":"src\\app\\(tabs)\\categorias.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779452979100,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\categorias.tsx: Unexpected token, expected \"from\" (2:21)\n\n  1 | import React from 'react';\n> 2 | import { View, Text }\n    |                      ^","importStack":null,"filename":"src\\app\\(tabs)\\categorias.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779452980245,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\categorias.tsx: Unexpected token, expected \"from\" (2:21)\n\n  1 | import React from 'react';\n> 2 | import { View, Text }\n    |                      ^","importStack":null,"filename":"src\\app\\(tabs)\\categorias.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779452983954,"id":"m","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\categorias.tsx"}
+{"_e":"metro:cache_read_error","_t":1779452983962,"message":"Unexpected end of MessagePack data"}
+{"_e":"metro:bundling:failed","_t":1779452983996,"id":"m","message":"Unexpected end of MessagePack data","importStack":null,"filename":null,"targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1779452984313,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779452984315,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779452984317,"level":"warn","data":["Route \"./(tabs)/receitas.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:started","_t":1779452989281,"id":"n","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\categorias.tsx"}
+{"_e":"metro:client_log","_t":1779452989312,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779452989315,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779452989316,"level":"warn","data":["Route \"./(tabs)/receitas.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:started","_t":1779452990338,"id":"o","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\categorias.tsx"}
+{"_e":"metro:client_log","_t":1779452991317,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779452991321,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779452991324,"level":"warn","data":["Route \"./(tabs)/receitas.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:failed","_t":1779453010825,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \"{\" (1:7)\n\n> 1 | import \n    |        ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453011981,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \"{\" (1:7)\n\n> 1 | import \n    |        ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453017325,"id":"s","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:client_log","_t":1779453018311,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779453018313,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779453018315,"level":"warn","data":["Route \"./(tabs)/receitas.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:failed","_t":1779453021902,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token (2:8)\n\n  1 | import React from 'react';\n> 2 | import {]}\n    |         ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453023068,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token (2:8)\n\n  1 | import React from 'react';\n> 2 | import {]}\n    |         ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453027718,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \"from\" (2:21)\n\n  1 | import React from 'react';\n> 2 | import { View, Text }\n    |                      ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453028851,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \"from\" (2:21)\n\n  1 | import React from 'react';\n> 2 | import { View, Text }\n    |                      ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453037460,"id":"w","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:client_log","_t":1779453038312,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779453038315,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779453038317,"level":"warn","data":["Route \"./(tabs)/receitas.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:failed","_t":1779453052951,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \"(\" (4:24)\n\n  2 | import { View, Text } from 'react-native';\n  3 |\n> 4 | export default function \n    |                         ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453054044,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \"(\" (4:24)\n\n  2 | import { View, Text } from 'react-native';\n  3 |\n> 4 | export default function \n    |                         ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453056382,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \"(\" (4:32)\n\n  2 | import { View, Text } from 'react-native';\n  3 |\n> 4 | export default function Receitas\n    |                                 ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453057487,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \"(\" (4:32)\n\n  2 | import { View, Text } from 'react-native';\n  3 |\n> 4 | export default function Receitas\n    |                                 ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453058795,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \"(\" (4:24)\n\n  2 | import { View, Text } from 'react-native';\n  3 |\n> 4 | export default function \n    |                         ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453059923,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \"(\" (4:24)\n\n  2 | import { View, Text } from 'react-native';\n  3 |\n> 4 | export default function \n    |                         ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453069988,"id":"10","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:client_log","_t":1779453070315,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779453070317,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:started","_t":1779453071348,"id":"11","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453075134,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token (7:4)\n\n  5 |     return (\n  6 |         \n> 7 |     )\n    |     ^\n  8 | }","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453076224,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token (7:4)\n\n  5 |     return (\n  6 |         \n> 7 |     )\n    |     ^\n  8 | }","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453080964,"id":"15","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:bundling:started","_t":1779453086665,"id":"16","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:bundling:started","_t":1779453091401,"id":"17","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:bundling:started","_t":1779453101250,"id":"18","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453105411,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Missing initializer in const declaration. (12:8)\n\n  10 | }\n  11 |\n> 12 | const sy\n     |         ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453106514,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Missing initializer in const declaration. (12:8)\n\n  10 | }\n  11 |\n> 12 | const sy\n     |         ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453107941,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Missing initializer in const declaration. (12:12)\n\n  10 | }\n  11 |\n> 12 | const styles\n     |             ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453109054,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Missing initializer in const declaration. (12:12)\n\n  10 | }\n  11 |\n> 12 | const styles\n     |             ^","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453116088,"id":"1c","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:bundling:started","_t":1779453126191,"id":"1f","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:client_log","_t":1779453126317,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779453126319,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:started","_t":1779453131392,"id":"1g","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:bundling:started","_t":1779453138365,"id":"1h","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:bundling:started","_t":1779453142678,"id":"1i","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453149522,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \",\" (15:8)\n\n  13 |     container:{\n  14 |         flex: 1\n> 15 |         alignItems: ''\n     |         ^\n  16 |     }\n  17 | })","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453150637,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \",\" (15:8)\n\n  13 |     container:{\n  14 |         flex: 1\n> 15 |         alignItems: ''\n     |         ^\n  16 |     }\n  17 | })","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453153406,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \",\" (15:8)\n\n  13 |     container:{\n  14 |         flex: 1\n> 15 |         alignItems: 'center',\n     |         ^\n  16 |         \n  17 |     }\n  18 | })","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453154539,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\receitas.tsx: Unexpected token, expected \",\" (15:8)\n\n  13 |     container:{\n  14 |         flex: 1\n> 15 |         alignItems: 'center',\n     |         ^\n  16 |         \n  17 |     }\n  18 | })","importStack":null,"filename":"src\\app\\(tabs)\\receitas.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453166142,"id":"1m","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:bundling:started","_t":1779453167240,"id":"1n","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:bundling:started","_t":1779453176363,"id":"1o","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\receitas.tsx"}
+{"_e":"metro:bundling:started","_t":1779453186911,"id":"1q","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779453186911,"id":"1q","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779453186911,"id":"1r","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779453186911,"id":"1q","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779453186912,"id":"1r","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779453186913,"id":"1q","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779453186913,"id":"1r","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779453187059,"id":"1q","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779453187059,"id":"1r","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779453187089,"id":"1q","total":1,"ms":178.3969}
+{"_e":"metro:bundling:progress","_t":1779453187090,"id":"1r","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779453187154,"id":"1r","total":1,"ms":242.3359}
+{"_e":"metro:bundling:started","_t":1779453188106,"id":"1s","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779453188106,"id":"1s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779453188200,"id":"1s","total":1,"ms":94.0295}
+{"_e":"metro:bundling:started","_t":1779453188252,"id":"1u","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779453188252,"id":"1u","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779453188253,"id":"1v","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779453188253,"id":"1u","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779453188253,"id":"1v","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779453188328,"id":"1v","total":1,"ms":75.1478}
+{"_e":"metro:bundling:progress","_t":1779453188328,"id":"1u","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779453188695,"id":"1u","total":1,"ms":442.8066}
+{"_e":"metro:client_log","_t":1779453188895,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1779453188908,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779453188910,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:failed","_t":1779453209247,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \"from\" (1:15)\n\n> 1 | import { Tabs }\n    |                ^","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453215375,"id":"20","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:client_log","_t":1779453216321,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779453216323,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:started","_t":1779453221565,"id":"21","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:client_log","_t":1779453222312,"level":"warn","data":["Route \"./(tabs)/_layout.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1779453222315,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:failed","_t":1779453232538,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (3:15)\n\n  1 | import { Tabs } from 'expo-router';\n  2 |\n> 3 | export default \n    |                ^","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453236232,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \"(\" (3:24)\n\n  1 | import { Tabs } from 'expo-router';\n  2 |\n> 3 | export default function \n    |                         ^","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453239484,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \"(\" (3:27)\n\n  1 | import { Tabs } from 'expo-router';\n  2 |\n> 3 | export default function Tab\n    |                            ^","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453245424,"id":"25","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:client_log","_t":1779453246312,"level":"warn","data":["Route \"./(tabs)/categorias.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:failed","_t":1779453253919,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (6:4)\n\n  4 |     return(\n  5 |         \n> 6 |     )\n    |     ^\n  7 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453264639,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (6:4)\n\n  4 |     return(\n  5 |         <Tabs\n> 6 |     )\n    |     ^\n  7 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453274618,"id":"29","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453275675,"id":"2a","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453277367,"id":"2b","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453283854,"id":"2c","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453291859,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: JSX attributes must only be assigned a non-empty expression. (5:28)\n\n  3 | export default function TabLayout() {\n  4 |     return(\n> 5 |         <Tabs screenOptions={}>\n    |                             ^\n  6 |\n  7 |\n  8 |         </Tabs>","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453294642,"id":"2g","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453297757,"id":"2h","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453299375,"id":"2i","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453307120,"id":"2j","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453310008,"id":"2k","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453311035,"id":"2l","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453315232,"id":"2m","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453322628,"id":"2n","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453324973,"id":"2o","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453326332,"id":"2p","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453330022,"id":"2q","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453340015,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (5:79)\n\n  3 | export default function TabLayout() {\n  4 |     return(\n> 5 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown:  }}>\n    |                                                                                ^\n  6 |\n  7 |\n  8 |         </Tabs>","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453342835,"id":"2u","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453344564,"id":"2v","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453346186,"id":"2w","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453362550,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (8:8)\n\n   6 |             <\n   7 |\n>  8 |         </Tabs>\n     |         ^\n   9 |     )\n  10 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453367195,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (8:8)\n\n   6 |             <Tabs.Screen\n   7 |\n>  8 |         </Tabs>\n     |         ^\n   9 |     )\n  10 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453370910,"id":"30","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453376183,"id":"31","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453378686,"id":"32","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453382375,"id":"33","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453396510,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (6:40)\n\n  4 |     return(\n  5 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n> 6 |             <Tabs.Screen name=\"receitas\",/>\n    |                                         ^\n  7 |\n  8 |         </Tabs>\n  9 |     )","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453405312,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: JSX attributes must only be assigned a non-empty expression. (6:49)\n\n  4 |     return(\n  5 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n> 6 |             <Tabs.Screen name=\"receitas\" options={}/>\n    |                                                  ^\n  7 |\n  8 |         </Tabs>\n  9 |     )","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453407800,"id":"37","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453409824,"id":"38","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453412047,"id":"39","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453417813,"id":"3a","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453420838,"id":"3b","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453423552,"id":"3c","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453426835,"id":"3d","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453428172,"id":"3e","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453432222,"id":"3f","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453435365,"id":"3g","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453439133,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (6:82)\n\n  4 |     return(\n  5 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n> 6 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: () }}/>\n    |                                                                                   ^\n  7 |\n  8 |         </Tabs>\n  9 |     )","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779453444605,"id":"3k","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779453449085,"id":"3l","platform":"web","environment":null,"entry":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453453827,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (6:105)\n\n  4 |     return(\n  5 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n> 6 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => }}/>\n    |                                                                                                          ^\n  7 |\n  8 |         </Tabs>\n  9 |     )","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453468525,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (7:105)\n\n   5 |     return(\n   6 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n>  7 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => }}/>\n     |                                                                                                          ^\n   8 |\n   9 |         </Tabs>\n  10 |     )","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453480477,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (7:106)\n\n   5 |     return(\n   6 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n>  7 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ()}}/>\n     |                                                                                                           ^\n   8 |\n   9 |         </Tabs>\n  10 |     )","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453481713,"id":"m","message":"Unable to resolve \"@expo/vector-icons\" from \"src\\app\\(tabs)\\_layout.tsx\"\n  1 | import { Tabs } from 'expo-router';\n> 2 | import { Ionicons } from '@expo/vector-icons';\n    |                           ^\n  3 |\n  4 | export default function TabLayout() {\n  5 |     return(","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc\\app\\(tabs)\\_layout.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39msrc\\app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453493236,"id":"m","message":"Unable to resolve \"@expo/vector-icons\" from \"src\\app\\(tabs)\\_layout.tsx\"\n  1 | import { Tabs } from 'expo-router';\n> 2 | import { Ionicons } from '@expo/vector-icons';\n    |                           ^\n  3 |\n  4 | export default function TabLayout() {\n  5 |     return(","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc\\app\\(tabs)\\_layout.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39msrc\\app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453505717,"id":"m","message":"Unable to resolve \"@expo/vector-icons\" from \"src\\app\\(tabs)\\_layout.tsx\"\n  1 | import { Tabs } from 'expo-router';\n> 2 | import { Ionicons } from '@expo/vector-icons';\n    |                           ^\n  3 |\n  4 | export default function TabLayout() {\n  5 |     return(","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc\\app\\(tabs)\\_layout.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39msrc\\app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453511725,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (9:8)\n\n   7 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n   8 |             <\n>  9 |         </Tabs>\n     |         ^\n  10 |     )\n  11 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453513488,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (9:8)\n\n   7 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n   8 |             <Tabs\n>  9 |         </Tabs>\n     |         ^\n  10 |     )\n  11 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453516660,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token (9:8)\n\n   7 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n   8 |             <Tabs.Screen\n>  9 |         </Tabs>\n     |         ^\n  10 |     )\n  11 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453519837,"id":"m","message":"Unable to resolve \"@expo/vector-icons\" from \"src\\app\\(tabs)\\_layout.tsx\"\n  1 | import { Tabs } from 'expo-router';\n> 2 | import { Ionicons } from '@expo/vector-icons';\n    |                           ^\n  3 |\n  4 | export default function TabLayout() {\n  5 |     return(","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc\\app\\(tabs)\\_layout.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39msrc\\app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453522787,"id":"m","message":"Unable to resolve \"@expo/vector-icons\" from \"src\\app\\(tabs)\\_layout.tsx\"\n  1 | import { Tabs } from 'expo-router';\n> 2 | import { Ionicons } from '@expo/vector-icons';\n    |                           ^\n  3 |\n  4 | export default function TabLayout() {\n  5 |     return(","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc\\app\\(tabs)\\_layout.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39msrc\\app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453526752,"id":"m","message":"Unable to resolve \"@expo/vector-icons\" from \"src\\app\\(tabs)\\_layout.tsx\"\n  1 | import { Tabs } from 'expo-router';\n> 2 | import { Ionicons } from '@expo/vector-icons';\n    |                           ^\n  3 |\n  4 | export default function TabLayout() {\n  5 |     return(","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc\\app\\(tabs)\\_layout.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39msrc\\app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453530208,"id":"m","message":"Unable to resolve \"@expo/vector-icons\" from \"src\\app\\(tabs)\\_layout.tsx\"\n  1 | import { Tabs } from 'expo-router';\n> 2 | import { Ionicons } from '@expo/vector-icons';\n    |                           ^\n  3 |\n  4 | export default function TabLayout() {\n  5 |     return(","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc\\app\\(tabs)\\_layout.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39msrc\\app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453533280,"id":"m","message":"Unable to resolve \"@expo/vector-icons\" from \"src\\app\\(tabs)\\_layout.tsx\"\n  1 | import { Tabs } from 'expo-router';\n> 2 | import { Ionicons } from '@expo/vector-icons';\n    |                           ^\n  3 |\n  4 | export default function TabLayout() {\n  5 |     return(","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc\\app\\(tabs)\\_layout.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39msrc\\app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453538624,"id":"m","message":"Unable to resolve \"@expo/vector-icons\" from \"src\\app\\(tabs)\\_layout.tsx\"\n  1 | import { Tabs } from 'expo-router';\n> 2 | import { Ionicons } from '@expo/vector-icons';\n    |                           ^\n  3 |\n  4 | export default function TabLayout() {\n  5 |     return(","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc\\app\\(tabs)\\_layout.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39msrc\\app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453540261,"id":"m","message":"Unable to resolve \"@expo/vector-icons\" from \"src\\app\\(tabs)\\_layout.tsx\"\n  1 | import { Tabs } from 'expo-router';\n> 2 | import { Ionicons } from '@expo/vector-icons';\n    |                           ^\n  3 |\n  4 | export default function TabLayout() {\n  5 |     return(","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc\\app\\(tabs)\\_layout.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39msrc\\app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453543777,"id":"m","message":"Unable to resolve \"@expo/vector-icons\" from \"src\\app\\(tabs)\\_layout.tsx\"\n  1 | import { Tabs } from 'expo-router';\n> 2 | import { Ionicons } from '@expo/vector-icons';\n    |                           ^\n  3 |\n  4 | export default function TabLayout() {\n  5 |     return(","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc\\app\\(tabs)\\_layout.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39msrc\\app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453547211,"id":"m","message":"Unable to resolve \"@expo/vector-icons\" from \"src\\app\\(tabs)\\_layout.tsx\"\n  1 | import { Tabs } from 'expo-router';\n> 2 | import { Ionicons } from '@expo/vector-icons';\n    |                           ^\n  3 |\n  4 | export default function TabLayout() {\n  5 |     return(","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc\\app\\(tabs)\\_layout.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@expo/vector-icons\"\u001b[39m\n\n\u001b[90m \u001b[39msrc\\app\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"@expo/vector-icons","originModulePath":"src\\app\\(tabs)\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779453552906,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (8:74)\n\n   6 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   7 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n>  8 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon }} />\n     |                                                                           ^\n   9 |         </Tabs>\n  10 |     )\n  11 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453556110,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (8:74)\n\n   6 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   7 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n>  8 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: () }} />\n     |                                                                           ^\n   9 |         </Tabs>\n  10 |     )\n  11 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453559617,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (8:74)\n\n   6 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   7 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n>  8 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({} ) }} />\n     |                                                                           ^\n   9 |         </Tabs>\n  10 |     )\n  11 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453560950,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (8:74)\n\n   6 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   7 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n>  8 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({}) }} />\n     |                                                                           ^\n   9 |         </Tabs>\n  10 |     )\n  11 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453562687,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (8:74)\n\n   6 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   7 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n>  8 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({  }) }} />\n     |                                                                           ^\n   9 |         </Tabs>\n  10 |     )\n  11 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453580586,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (8:74)\n\n   6 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   7 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n>  8 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) }} />\n     |                                                                           ^\n   9 |         </Tabs>\n  10 |     )\n  11 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453585727,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (8:74)\n\n   6 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   7 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n>  8 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) =>  }} />\n     |                                                                           ^\n   9 |         </Tabs>\n  10 |     )\n  11 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453588501,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (8:74)\n\n   6 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   7 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n>  8 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => (  ) }} />\n     |                                                                           ^\n   9 |         </Tabs>\n  10 |     )\n  11 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453634066,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => (  ) }} />\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453638672,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" /> ) }} />\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453648572,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />) }} />\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453649769,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />), }} />\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453652252,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />), }}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453656357,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />), }}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453663133,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453747059,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453748173,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453754683,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453755770,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453757415,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453758525,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453763504,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453764606,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"receitas\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453772098,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453782590,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453783702,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453787702,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453788877,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453791233,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453792349,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453796365,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453797490,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453799729,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453800846,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453801837,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453802954,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453806093,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453807163,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453807171,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453808285,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453811016,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453812141,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453846372,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453847504,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453850210,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453851315,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779453896206,"id":"m","message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\(tabs)\\_layout.tsx: Unexpected token, expected \",\" (9:74)\n\n   7 |         <Tabs screenOptions={{ tabBarActiveTintColor: '#3b82f6', headerShown: false, }}>\n   8 |             <Tabs.Screen name=\"index\" options={{ title: 'Início', tabBarIcon: ({ color, focused }) => ( <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24}/>),}}/>\n>  9 |             <Tabs.Screen name=\"categorias\" options={{ title: 'Categorias' tabBarIcon: ({ color, focused }) => ( <MaterialIcons name=\"category\" size={24} color=\"black\" />),}}/>\n     |                                                                           ^\n  10 |         </Tabs>\n  11 |     )\n  12 | }","importStack":null,"filename":"src\\app\\(tabs)\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"root:init","_t":1779469853498,"format":"v0-jsonl","version":"56.1.10"}
+{"_e":"env:mode","_t":1779469853540,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1779469853581,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1779469867812,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1779469885572,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1779469905093,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1779469909560,"id":"2","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779469909561,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779469909564,"id":"3","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779469909564,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469909564,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469909599,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469909600,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469909700,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469909700,"id":"3","progress":0.017777777777777778,"total":15,"current":2}
+{"_e":"metro:bundling:progress","_t":1779469909804,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469909804,"id":"3","progress":0.04000000000000001,"total":20,"current":4}
+{"_e":"metro:bundling:progress","_t":1779469909921,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469909921,"id":"3","progress":0.09972299168975068,"total":38,"current":12}
+{"_e":"metro:bundling:progress","_t":1779469910028,"id":"2","progress":0.32653061224489793,"total":28,"current":16}
+{"_e":"metro:bundling:progress","_t":1779469910028,"id":"3","progress":0.09972299168975068,"total":38,"current":12}
+{"_e":"metro:bundling:progress","_t":1779469910168,"id":"2","progress":0.32653061224489793,"total":28,"current":16}
+{"_e":"metro:bundling:progress","_t":1779469910168,"id":"3","progress":0.19140625,"total":48,"current":21}
+{"_e":"metro:bundling:progress","_t":1779469910268,"id":"2","progress":0.32653061224489793,"total":28,"current":16}
+{"_e":"metro:bundling:progress","_t":1779469910268,"id":"3","progress":0.19140625,"total":87,"current":31}
+{"_e":"metro:bundling:progress","_t":1779469910458,"id":"2","progress":0.32653061224489793,"total":53,"current":20}
+{"_e":"metro:bundling:progress","_t":1779469910458,"id":"3","progress":0.19140625,"total":87,"current":31}
+{"_e":"metro:bundling:progress","_t":1779469910585,"id":"2","progress":0.32653061224489793,"total":53,"current":20}
+{"_e":"metro:bundling:progress","_t":1779469910585,"id":"3","progress":0.19140625,"total":89,"current":32}
+{"_e":"metro:bundling:progress","_t":1779469910734,"id":"2","progress":0.32653061224489793,"total":53,"current":20}
+{"_e":"metro:bundling:progress","_t":1779469910734,"id":"3","progress":0.19140625,"total":113,"current":33}
+{"_e":"metro:bundling:progress","_t":1779469910862,"id":"2","progress":0.32653061224489793,"total":53,"current":20}
+{"_e":"metro:bundling:progress","_t":1779469910873,"id":"3","progress":0.19140625,"total":113,"current":34}
+{"_e":"metro:bundling:progress","_t":1779469911005,"id":"2","progress":0.32653061224489793,"total":53,"current":20}
+{"_e":"metro:bundling:progress","_t":1779469911005,"id":"3","progress":0.19140625,"total":116,"current":35}
+{"_e":"metro:bundling:progress","_t":1779469911105,"id":"2","progress":0.32653061224489793,"total":113,"current":21}
+{"_e":"metro:bundling:progress","_t":1779469911105,"id":"3","progress":0.19140625,"total":116,"current":35}
+{"_e":"metro:bundling:progress","_t":1779469911206,"id":"2","progress":0.32653061224489793,"total":158,"current":39}
+{"_e":"metro:bundling:progress","_t":1779469911206,"id":"3","progress":0.19140625,"total":116,"current":35}
+{"_e":"metro:bundling:progress","_t":1779469911306,"id":"2","progress":0.32653061224489793,"total":158,"current":39}
+{"_e":"metro:bundling:progress","_t":1779469911306,"id":"3","progress":0.19140625,"total":168,"current":52}
+{"_e":"metro:bundling:progress","_t":1779469911419,"id":"2","progress":0.32653061224489793,"total":158,"current":39}
+{"_e":"metro:bundling:progress","_t":1779469911419,"id":"3","progress":0.19140625,"total":260,"current":80}
+{"_e":"metro:bundling:progress","_t":1779469911535,"id":"2","progress":0.32653061224489793,"total":226,"current":76}
+{"_e":"metro:bundling:progress","_t":1779469911535,"id":"3","progress":0.19140625,"total":260,"current":80}
+{"_e":"metro:bundling:progress","_t":1779469911635,"id":"2","progress":0.32653061224489793,"total":264,"current":107}
+{"_e":"metro:bundling:progress","_t":1779469911635,"id":"3","progress":0.19140625,"total":260,"current":80}
+{"_e":"metro:bundling:progress","_t":1779469911738,"id":"2","progress":0.32653061224489793,"total":264,"current":107}
+{"_e":"metro:bundling:progress","_t":1779469911738,"id":"3","progress":0.19140625,"total":275,"current":108}
+{"_e":"metro:bundling:progress","_t":1779469911758,"id":"2","progress":0.32653061224489793,"total":264,"current":107}
+{"_e":"metro:bundling:progress","_t":1779469911758,"id":"3","progress":0.19140625,"total":275,"current":109}
+{"_e":"metro:bundling:progress","_t":1779469911871,"id":"2","progress":0.32653061224489793,"total":264,"current":107}
+{"_e":"metro:bundling:progress","_t":1779469911871,"id":"3","progress":0.19140625,"total":282,"current":113}
+{"_e":"metro:bundling:progress","_t":1779469912048,"id":"2","progress":0.32653061224489793,"total":264,"current":107}
+{"_e":"metro:bundling:progress","_t":1779469912048,"id":"3","progress":0.19140625,"total":282,"current":114}
+{"_e":"metro:bundling:progress","_t":1779469912173,"id":"2","progress":0.32653061224489793,"total":267,"current":114}
+{"_e":"metro:bundling:progress","_t":1779469912173,"id":"3","progress":0.19140625,"total":282,"current":114}
+{"_e":"metro:bundling:progress","_t":1779469912274,"id":"2","progress":0.342469577444402,"total":311,"current":182}
+{"_e":"metro:bundling:progress","_t":1779469912274,"id":"3","progress":0.19140625,"total":282,"current":114}
+{"_e":"metro:bundling:progress","_t":1779469912445,"id":"2","progress":0.342469577444402,"total":311,"current":182}
+{"_e":"metro:bundling:progress","_t":1779469912446,"id":"3","progress":0.21189216427311663,"total":315,"current":145}
+{"_e":"metro:bundling:progress","_t":1779469912547,"id":"2","progress":0.342469577444402,"total":311,"current":182}
+{"_e":"metro:bundling:progress","_t":1779469912547,"id":"3","progress":0.25,"total":420,"current":210}
+{"_e":"metro:bundling:progress","_t":1779469912647,"id":"2","progress":0.342469577444402,"total":405,"current":216}
+{"_e":"metro:bundling:progress","_t":1779469912647,"id":"3","progress":0.25,"total":420,"current":210}
+{"_e":"metro:bundling:progress","_t":1779469912747,"id":"2","progress":0.342469577444402,"total":411,"current":227}
+{"_e":"metro:bundling:progress","_t":1779469912747,"id":"3","progress":0.25,"total":420,"current":210}
+{"_e":"metro:bundling:progress","_t":1779469912852,"id":"2","progress":0.37408869659275285,"total":430,"current":263}
+{"_e":"metro:bundling:progress","_t":1779469912852,"id":"3","progress":0.25,"total":420,"current":210}
+{"_e":"metro:bundling:progress","_t":1779469912952,"id":"2","progress":0.37408869659275285,"total":442,"current":263}
+{"_e":"metro:bundling:progress","_t":1779469912952,"id":"3","progress":0.25,"total":420,"current":210}
+{"_e":"metro:bundling:progress","_t":1779469913045,"id":"2","progress":0.37408869659275285,"total":442,"current":263}
+{"_e":"metro:bundling:progress","_t":1779469913045,"id":"3","progress":0.3353102856307985,"total":468,"current":271}
+{"_e":"metro:bundling:progress","_t":1779469913158,"id":"2","progress":0.37408869659275285,"total":442,"current":263}
+{"_e":"metro:bundling:progress","_t":1779469913158,"id":"3","progress":0.33778946599459425,"total":468,"current":272}
+{"_e":"metro:bundling:progress","_t":1779469913262,"id":"2","progress":0.37408869659275285,"total":442,"current":263}
+{"_e":"metro:bundling:progress","_t":1779469913262,"id":"3","progress":0.33778946599459425,"total":477,"current":276}
+{"_e":"metro:bundling:progress","_t":1779469913328,"id":"2","progress":0.37408869659275285,"total":442,"current":263}
+{"_e":"metro:bundling:progress","_t":1779469913328,"id":"3","progress":0.33778946599459425,"total":477,"current":277}
+{"_e":"metro:bundling:progress","_t":1779469913432,"id":"2","progress":0.37408869659275285,"total":442,"current":263}
+{"_e":"metro:bundling:progress","_t":1779469913432,"id":"3","progress":0.3396665919509161,"total":477,"current":278}
+{"_e":"metro:bundling:progress","_t":1779469913532,"id":"2","progress":0.4093830795748348,"total":472,"current":302}
+{"_e":"metro:bundling:progress","_t":1779469913532,"id":"3","progress":0.3396665919509161,"total":477,"current":278}
+{"_e":"metro:bundling:progress","_t":1779469913632,"id":"2","progress":0.46626475829806197,"total":536,"current":366}
+{"_e":"metro:bundling:progress","_t":1779469913632,"id":"3","progress":0.3396665919509161,"total":477,"current":278}
+{"_e":"metro:bundling:progress","_t":1779469913732,"id":"2","progress":0.46626475829806197,"total":536,"current":366}
+{"_e":"metro:bundling:progress","_t":1779469913732,"id":"3","progress":0.44896802288129045,"total":591,"current":396}
+{"_e":"metro:bundling:progress","_t":1779469913832,"id":"2","progress":0.46626475829806197,"total":536,"current":366}
+{"_e":"metro:bundling:progress","_t":1779469913832,"id":"3","progress":0.4581243990446749,"total":622,"current":421}
+{"_e":"metro:bundling:progress","_t":1779469913937,"id":"2","progress":0.46626475829806197,"total":536,"current":366}
+{"_e":"metro:bundling:progress","_t":1779469913937,"id":"3","progress":0.4990320680077434,"total":654,"current":462}
+{"_e":"metro:bundling:progress","_t":1779469914037,"id":"2","progress":0.5637983261694663,"total":578,"current":434}
+{"_e":"metro:bundling:progress","_t":1779469914037,"id":"3","progress":0.4990320680077434,"total":654,"current":462}
+{"_e":"metro:bundling:progress","_t":1779469914121,"id":"2","progress":0.5663994683971696,"total":578,"current":435}
+{"_e":"metro:bundling:progress","_t":1779469914121,"id":"3","progress":0.4990320680077434,"total":654,"current":462}
+{"_e":"metro:bundling:progress","_t":1779469914221,"id":"2","progress":0.571619712407658,"total":578,"current":437}
+{"_e":"metro:bundling:progress","_t":1779469914221,"id":"3","progress":0.4990320680077434,"total":654,"current":462}
+{"_e":"metro:bundling:progress","_t":1779469914440,"id":"2","progress":0.571619712407658,"total":578,"current":437}
+{"_e":"metro:bundling:progress","_t":1779469914440,"id":"3","progress":0.5011947179904424,"total":654,"current":463}
+{"_e":"metro:bundling:progress","_t":1779469914543,"id":"2","progress":0.571619712407658,"total":578,"current":437}
+{"_e":"metro:bundling:progress","_t":1779469914543,"id":"3","progress":0.5111378085960738,"total":656,"current":469}
+{"_e":"metro:bundling:progress","_t":1779469914630,"id":"2","progress":0.571619712407658,"total":578,"current":437}
+{"_e":"metro:bundling:progress","_t":1779469914630,"id":"3","progress":0.5133198245092206,"total":656,"current":470}
+{"_e":"metro:bundling:progress","_t":1779469914749,"id":"2","progress":0.620353799174506,"total":598,"current":471}
+{"_e":"metro:bundling:progress","_t":1779469914749,"id":"3","progress":0.5133198245092206,"total":656,"current":470}
+{"_e":"metro:bundling:progress","_t":1779469914849,"id":"2","progress":0.620353799174506,"total":598,"current":471}
+{"_e":"metro:bundling:progress","_t":1779469914849,"id":"3","progress":0.5697147682492024,"total":730,"current":551}
+{"_e":"metro:bundling:progress","_t":1779469914949,"id":"2","progress":0.7666855447187996,"total":619,"current":542}
+{"_e":"metro:bundling:progress","_t":1779469914949,"id":"3","progress":0.5697147682492024,"total":730,"current":551}
+{"_e":"metro:bundling:progress","_t":1779469915049,"id":"2","progress":0.7947890708437165,"total":636,"current":567}
+{"_e":"metro:bundling:progress","_t":1779469915049,"id":"3","progress":0.5697147682492024,"total":730,"current":551}
+{"_e":"metro:bundling:progress","_t":1779469915149,"id":"2","progress":0.8116990032039871,"total":636,"current":573}
+{"_e":"metro:bundling:progress","_t":1779469915149,"id":"3","progress":0.5697147682492024,"total":730,"current":551}
+{"_e":"metro:bundling:progress","_t":1779469915414,"id":"2","progress":0.8145346307503659,"total":636,"current":574}
+{"_e":"metro:bundling:progress","_t":1779469915415,"id":"3","progress":0.5697147682492024,"total":730,"current":551}
+{"_e":"metro:bundling:progress","_t":1779469915514,"id":"2","progress":0.83049500135604,"total":654,"current":596}
+{"_e":"metro:bundling:progress","_t":1779469915514,"id":"3","progress":0.5697147682492024,"total":730,"current":551}
+{"_e":"metro:bundling:progress","_t":1779469915626,"id":"2","progress":0.83049500135604,"total":654,"current":596}
+{"_e":"metro:bundling:progress","_t":1779469915626,"id":"3","progress":0.8999467961095403,"total":818,"current":776}
+{"_e":"metro:bundling:progress","_t":1779469915729,"id":"2","progress":0.8755612244897959,"total":700,"current":655}
+{"_e":"metro:bundling:progress","_t":1779469915729,"id":"3","progress":0.8999467961095403,"total":818,"current":776}
+{"_e":"metro:bundling:progress","_t":1779469915829,"id":"2","progress":0.8895919421487605,"total":704,"current":664}
+{"_e":"metro:bundling:progress","_t":1779469915829,"id":"3","progress":0.8999467961095403,"total":818,"current":776}
+{"_e":"metro:bundling:progress","_t":1779469915937,"id":"2","progress":0.8895919421487605,"total":704,"current":664}
+{"_e":"metro:bundling:progress","_t":1779469915937,"id":"3","progress":0.9603999999999999,"total":850,"current":833}
+{"_e":"metro:bundling:progress","_t":1779469916041,"id":"2","progress":0.9282631504739792,"total":739,"current":712}
+{"_e":"metro:bundling:progress","_t":1779469916041,"id":"3","progress":0.9603999999999999,"total":850,"current":833}
+{"_e":"metro:bundling:progress","_t":1779469916061,"id":"2","progress":0.9308724623297767,"total":739,"current":713}
+{"_e":"metro:bundling:progress","_t":1779469916061,"id":"3","progress":0.9603999999999999,"total":850,"current":833}
+{"_e":"metro:bundling:progress","_t":1779469916161,"id":"2","progress":0.9308724623297767,"total":739,"current":713}
+{"_e":"metro:bundling:progress","_t":1779469916162,"id":"3","progress":0.9703382216937508,"total":870,"current":857}
+{"_e":"metro:bundling:progress","_t":1779469916261,"id":"2","progress":0.9345239090739084,"total":811,"current":784}
+{"_e":"metro:bundling:progress","_t":1779469916261,"id":"3","progress":0.9703382216937508,"total":870,"current":857}
+{"_e":"metro:bundling:progress","_t":1779469916362,"id":"2","progress":0.9345239090739084,"total":811,"current":784}
+{"_e":"metro:bundling:progress","_t":1779469916362,"id":"3","progress":0.9755156756106034,"total":893,"current":882}
+{"_e":"metro:bundling:progress","_t":1779469916473,"id":"2","progress":0.9345239090739084,"total":811,"current":784}
+{"_e":"metro:bundling:progress","_t":1779469916473,"id":"3","progress":0.9977790123456791,"total":900,"current":899}
+{"_e":"metro:bundling:progress","_t":1779469923089,"id":"2","progress":0.9345239090739084,"total":811,"current":784}
+{"_e":"metro:bundling:progress","_t":1779469923089,"id":"3","progress":0.999,"total":900,"current":900}
+{"_e":"metro:bundling:progress","_t":1779469923191,"id":"2","progress":0.9345239090739084,"total":811,"current":784}
+{"_e":"metro:bundling:progress","_t":1779469923191,"id":"3","progress":0.999,"total":905,"current":902}
+{"_e":"metro:bundling:progress","_t":1779469923879,"id":"2","progress":0.999,"total":828,"current":828}
+{"_e":"metro:bundling:progress","_t":1779469923879,"id":"3","progress":0.999,"total":905,"current":902}
+{"_e":"metro:bundling:progress","_t":1779469923979,"id":"2","progress":0.999,"total":828,"current":828}
+{"_e":"metro:bundling:progress","_t":1779469923980,"id":"3","progress":0.999,"total":905,"current":904}
+{"_e":"metro:bundling:progress","_t":1779469923999,"id":"2","progress":0.999,"total":828,"current":828}
+{"_e":"metro:bundling:progress","_t":1779469924107,"id":"2","progress":0.999,"total":828,"current":828}
+{"_e":"metro:bundling:progress","_t":1779469924205,"id":"2","progress":0.999,"total":853,"current":851}
+{"_e":"metro:bundling:started","_t":1779469928578,"id":"7","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779469928579,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779469928579,"id":"8","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779469928579,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469928579,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469928581,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469928581,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469928685,"id":"7","progress":0.0509885535900104,"total":124,"current":28}
+{"_e":"metro:bundling:progress","_t":1779469928685,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469928785,"id":"7","progress":0.17678202479338845,"total":176,"current":74}
+{"_e":"metro:bundling:progress","_t":1779469928785,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469928885,"id":"7","progress":0.2111029948867787,"total":296,"current":136}
+{"_e":"metro:bundling:progress","_t":1779469928885,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779469928986,"id":"7","progress":0.2111029948867787,"total":296,"current":136}
+{"_e":"metro:bundling:progress","_t":1779469928986,"id":"8","progress":0.11646510456034266,"total":126,"current":43}
+{"_e":"metro:bundling:progress","_t":1779469929086,"id":"7","progress":0.3857875853555032,"total":483,"current":300}
+{"_e":"metro:bundling:progress","_t":1779469929086,"id":"8","progress":0.11646510456034266,"total":126,"current":43}
+{"_e":"metro:bundling:progress","_t":1779469929186,"id":"7","progress":0.3857875853555032,"total":483,"current":300}
+{"_e":"metro:bundling:progress","_t":1779469929186,"id":"8","progress":0.23182441700960216,"total":324,"current":156}
+{"_e":"metro:bundling:progress","_t":1779469929286,"id":"7","progress":0.3857875853555032,"total":483,"current":300}
+{"_e":"metro:bundling:progress","_t":1779469929286,"id":"8","progress":0.31915162759318605,"total":462,"current":261}
+{"_e":"metro:bundling:progress","_t":1779469929386,"id":"7","progress":0.7542949059656407,"total":654,"current":568}
+{"_e":"metro:bundling:progress","_t":1779469929386,"id":"8","progress":0.31915162759318605,"total":462,"current":261}
+{"_e":"metro:bundling:progress","_t":1779469929487,"id":"7","progress":0.7542949059656407,"total":654,"current":568}
+{"_e":"metro:bundling:progress","_t":1779469929487,"id":"8","progress":0.4610888713724653,"total":539,"current":366}
+{"_e":"metro:bundling:progress","_t":1779469929587,"id":"7","progress":0.7977617131435515,"total":674,"current":602}
+{"_e":"metro:bundling:progress","_t":1779469929587,"id":"8","progress":0.4610888713724653,"total":539,"current":366}
+{"_e":"metro:bundling:progress","_t":1779469929688,"id":"7","progress":0.7977617131435515,"total":674,"current":602}
+{"_e":"metro:bundling:progress","_t":1779469929688,"id":"8","progress":0.6616566821314356,"total":745,"current":606}
+{"_e":"metro:bundling:progress","_t":1779469929787,"id":"7","progress":0.7977617131435515,"total":674,"current":602}
+{"_e":"metro:bundling:progress","_t":1779469929787,"id":"8","progress":0.8183778882226165,"total":797,"current":721}
+{"_e":"metro:bundling:progress","_t":1779469929887,"id":"7","progress":0.9233440778310851,"total":793,"current":762}
+{"_e":"metro:bundling:progress","_t":1779469929887,"id":"8","progress":0.8183778882226165,"total":797,"current":721}
+{"_e":"metro:bundling:progress","_t":1779469929959,"id":"8","progress":0.8183778882226165,"total":797,"current":721}
+{"_e":"root:init","_t":1779470136395,"format":"v0-jsonl","version":"56.1.10"}
+{"_e":"env:mode","_t":1779470136396,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1779470136399,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1779470145096,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1779470154703,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1779470172957,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1779470176660,"id":"2","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779470176661,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779470176662,"id":"3","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779470176662,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470176662,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470176666,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470176666,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470176774,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470176774,"id":"3","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1779470176889,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470176889,"id":"3","progress":0.04000000000000001,"total":26,"current":5}
+{"_e":"metro:bundling:progress","_t":1779470176999,"id":"2","progress":0.1111111111111111,"total":24,"current":8}
+{"_e":"metro:bundling:progress","_t":1779470176999,"id":"3","progress":0.04000000000000001,"total":26,"current":5}
+{"_e":"metro:bundling:progress","_t":1779470177098,"id":"2","progress":0.1111111111111111,"total":113,"current":20}
+{"_e":"metro:bundling:progress","_t":1779470177098,"id":"3","progress":0.04000000000000001,"total":26,"current":5}
+{"_e":"metro:bundling:progress","_t":1779470177203,"id":"2","progress":0.1111111111111111,"total":113,"current":20}
+{"_e":"metro:bundling:progress","_t":1779470177203,"id":"3","progress":0.08650519031141869,"total":119,"current":35}
+{"_e":"metro:bundling:progress","_t":1779470177612,"id":"2","progress":0.1111111111111111,"total":113,"current":20}
+{"_e":"metro:bundling:progress","_t":1779470177612,"id":"3","progress":0.09151896052538662,"total":119,"current":36}
+{"_e":"metro:bundling:progress","_t":1779470177712,"id":"2","progress":0.1111111111111111,"total":166,"current":39}
+{"_e":"metro:bundling:progress","_t":1779470177712,"id":"3","progress":0.09151896052538662,"total":119,"current":36}
+{"_e":"metro:bundling:progress","_t":1779470177813,"id":"2","progress":0.1111111111111111,"total":218,"current":62}
+{"_e":"metro:bundling:progress","_t":1779470177813,"id":"3","progress":0.09151896052538662,"total":119,"current":36}
+{"_e":"metro:bundling:progress","_t":1779470177913,"id":"2","progress":0.15401922392310433,"total":265,"current":104}
+{"_e":"metro:bundling:progress","_t":1779470177913,"id":"3","progress":0.09151896052538662,"total":119,"current":36}
+{"_e":"metro:bundling:progress","_t":1779470178014,"id":"2","progress":0.15401922392310433,"total":265,"current":104}
+{"_e":"metro:bundling:progress","_t":1779470178014,"id":"3","progress":0.1656632810095414,"total":285,"current":116}
+{"_e":"metro:bundling:progress","_t":1779470178549,"id":"2","progress":0.15401922392310433,"total":265,"current":104}
+{"_e":"metro:bundling:progress","_t":1779470178549,"id":"3","progress":0.16853185595567868,"total":285,"current":117}
+{"_e":"metro:bundling:progress","_t":1779470178655,"id":"2","progress":0.1968132231404959,"total":275,"current":122}
+{"_e":"metro:bundling:progress","_t":1779470178655,"id":"3","progress":0.16853185595567868,"total":285,"current":117}
+{"_e":"metro:bundling:progress","_t":1779470178755,"id":"2","progress":0.22057769021379692,"total":379,"current":178}
+{"_e":"metro:bundling:progress","_t":1779470178755,"id":"3","progress":0.16853185595567868,"total":285,"current":117}
+{"_e":"metro:bundling:progress","_t":1779470178855,"id":"2","progress":0.2994447994653191,"total":413,"current":226}
+{"_e":"metro:bundling:progress","_t":1779470178855,"id":"3","progress":0.16853185595567868,"total":285,"current":117}
+{"_e":"metro:bundling:progress","_t":1779470178956,"id":"2","progress":0.37392522129739725,"total":435,"current":266}
+{"_e":"metro:bundling:progress","_t":1779470178956,"id":"3","progress":0.16853185595567868,"total":285,"current":117}
+{"_e":"metro:bundling:progress","_t":1779470179055,"id":"2","progress":0.37392522129739725,"total":435,"current":266}
+{"_e":"metro:bundling:progress","_t":1779470179055,"id":"3","progress":0.2613622017422043,"total":356,"current":182}
+{"_e":"metro:bundling:progress","_t":1779470179155,"id":"2","progress":0.37392522129739725,"total":435,"current":266}
+{"_e":"metro:bundling:progress","_t":1779470179155,"id":"3","progress":0.31276230652530024,"total":481,"current":269}
+{"_e":"metro:bundling:progress","_t":1779470179256,"id":"2","progress":0.37392522129739725,"total":435,"current":266}
+{"_e":"metro:bundling:progress","_t":1779470179256,"id":"3","progress":0.33192772104523366,"total":486,"current":280}
+{"_e":"metro:bundling:progress","_t":1779470179751,"id":"2","progress":0.37392522129739725,"total":435,"current":266}
+{"_e":"metro:bundling:progress","_t":1779470179752,"id":"3","progress":0.33430286711036594,"total":486,"current":281}
+{"_e":"metro:bundling:progress","_t":1779470179878,"id":"2","progress":0.4127089072543618,"total":495,"current":318}
+{"_e":"metro:bundling:progress","_t":1779470179878,"id":"3","progress":0.33430286711036594,"total":486,"current":281}
+{"_e":"metro:bundling:progress","_t":1779470179985,"id":"2","progress":0.5116052593640865,"total":583,"current":417}
+{"_e":"metro:bundling:progress","_t":1779470179985,"id":"3","progress":0.33430286711036594,"total":486,"current":281}
+{"_e":"metro:bundling:progress","_t":1779470180085,"id":"2","progress":0.5116052593640865,"total":583,"current":417}
+{"_e":"metro:bundling:progress","_t":1779470180085,"id":"3","progress":0.4136067771313276,"total":538,"current":346}
+{"_e":"metro:bundling:progress","_t":1779470180185,"id":"2","progress":0.5116052593640865,"total":583,"current":417}
+{"_e":"metro:bundling:progress","_t":1779470180185,"id":"3","progress":0.4989292013101538,"total":630,"current":445}
+{"_e":"metro:bundling:progress","_t":1779470180286,"id":"2","progress":0.5116052593640865,"total":583,"current":417}
+{"_e":"metro:bundling:progress","_t":1779470180286,"id":"3","progress":0.544838406318816,"total":653,"current":482}
+{"_e":"metro:bundling:progress","_t":1779470180921,"id":"2","progress":0.5116052593640865,"total":583,"current":417}
+{"_e":"metro:bundling:progress","_t":1779470180921,"id":"3","progress":0.5471014917602584,"total":653,"current":483}
+{"_e":"metro:bundling:progress","_t":1779470181029,"id":"2","progress":0.5767989599646084,"total":607,"current":461}
+{"_e":"metro:bundling:progress","_t":1779470181030,"id":"3","progress":0.5471014917602584,"total":653,"current":483}
+{"_e":"metro:bundling:progress","_t":1779470181129,"id":"2","progress":0.5767989599646084,"total":607,"current":461}
+{"_e":"metro:bundling:progress","_t":1779470181129,"id":"3","progress":0.5636199599019827,"total":670,"current":503}
+{"_e":"metro:bundling:progress","_t":1779470181229,"id":"2","progress":0.5767989599646084,"total":607,"current":461}
+{"_e":"metro:bundling:progress","_t":1779470181229,"id":"3","progress":0.6495230345609229,"total":742,"current":598}
+{"_e":"metro:bundling:progress","_t":1779470181329,"id":"2","progress":0.5767989599646084,"total":607,"current":461}
+{"_e":"metro:bundling:progress","_t":1779470181329,"id":"3","progress":0.6905375917476692,"total":781,"current":649}
+{"_e":"metro:bundling:progress","_t":1779470181724,"id":"2","progress":0.5767989599646084,"total":607,"current":461}
+{"_e":"metro:bundling:progress","_t":1779470181724,"id":"3","progress":0.6926672361019803,"total":781,"current":650}
+{"_e":"metro:bundling:progress","_t":1779470181841,"id":"2","progress":0.8541424066502903,"total":686,"current":634}
+{"_e":"metro:bundling:progress","_t":1779470181841,"id":"3","progress":0.6926672361019803,"total":781,"current":650}
+{"_e":"metro:bundling:progress","_t":1779470181962,"id":"2","progress":0.8541424066502903,"total":686,"current":634}
+{"_e":"metro:bundling:progress","_t":1779470181962,"id":"3","progress":0.767270620159421,"total":798,"current":699}
+{"_e":"metro:bundling:progress","_t":1779470182061,"id":"2","progress":0.8797146254458977,"total":725,"current":680}
+{"_e":"metro:bundling:progress","_t":1779470182061,"id":"3","progress":0.767270620159421,"total":798,"current":699}
+{"_e":"metro:bundling:progress","_t":1779470182177,"id":"2","progress":0.8797146254458977,"total":725,"current":680}
+{"_e":"metro:bundling:progress","_t":1779470182177,"id":"3","progress":0.9175380596355717,"total":831,"current":796}
+{"_e":"metro:bundling:progress","_t":1779470182277,"id":"2","progress":0.8797146254458977,"total":725,"current":680}
+{"_e":"metro:bundling:progress","_t":1779470182277,"id":"3","progress":0.9508560566923475,"total":844,"current":823}
+{"_e":"metro:bundling:progress","_t":1779470182401,"id":"2","progress":0.8797146254458977,"total":725,"current":680}
+{"_e":"metro:bundling:progress","_t":1779470182401,"id":"3","progress":0.9559984972220545,"total":854,"current":835}
+{"_e":"metro:bundling:progress","_t":1779470182525,"id":"2","progress":0.8797146254458977,"total":725,"current":680}
+{"_e":"metro:bundling:progress","_t":1779470182525,"id":"3","progress":0.9559984972220545,"total":877,"current":852}
+{"_e":"metro:bundling:progress","_t":1779470182627,"id":"2","progress":0.8797146254458977,"total":725,"current":680}
+{"_e":"metro:bundling:progress","_t":1779470182627,"id":"3","progress":0.962246626716805,"total":892,"current":875}
+{"_e":"metro:bundling:progress","_t":1779470182726,"id":"2","progress":0.8797146254458977,"total":725,"current":680}
+{"_e":"metro:bundling:progress","_t":1779470182726,"id":"3","progress":0.9955947190113889,"total":907,"current":905}
+{"_e":"metro:bundling:progress","_t":1779470188082,"id":"2","progress":0.8797146254458977,"total":725,"current":680}
+{"_e":"metro:bundling:progress","_t":1779470188082,"id":"3","progress":0.9977961439204326,"total":907,"current":906}
+{"_e":"metro:bundling:progress","_t":1779470188186,"id":"2","progress":0.9569943289224953,"total":874,"current":855}
+{"_e":"metro:bundling:progress","_t":1779470188186,"id":"3","progress":0.9977961439204326,"total":907,"current":906}
+{"_e":"metro:bundling:progress","_t":1779470188305,"id":"2","progress":0.9569943289224953,"total":874,"current":855}
+{"_e":"metro:bundling:progress","_t":1779470188305,"id":"3","progress":0.9977961439204326,"total":934,"current":912}
+{"_e":"metro:bundling:progress","_t":1779470188406,"id":"2","progress":0.9569943289224953,"total":880,"current":859}
+{"_e":"metro:bundling:progress","_t":1779470188406,"id":"3","progress":0.9977961439204326,"total":934,"current":912}
+{"_e":"metro:bundling:progress","_t":1779470188516,"id":"2","progress":0.9569943289224953,"total":880,"current":859}
+{"_e":"metro:bundling:progress","_t":1779470188517,"id":"3","progress":0.9977961439204326,"total":949,"current":920}
+{"_e":"metro:bundling:progress","_t":1779470188617,"id":"2","progress":0.9569943289224953,"total":895,"current":868}
+{"_e":"metro:bundling:progress","_t":1779470188617,"id":"3","progress":0.9977961439204326,"total":949,"current":920}
+{"_e":"metro:bundling:progress","_t":1779470188720,"id":"2","progress":0.9569943289224953,"total":903,"current":873}
+{"_e":"metro:bundling:progress","_t":1779470188720,"id":"3","progress":0.9977961439204326,"total":949,"current":920}
+{"_e":"metro:bundling:progress","_t":1779470188819,"id":"2","progress":0.9569943289224953,"total":920,"current":900}
+{"_e":"metro:bundling:progress","_t":1779470188819,"id":"3","progress":0.9977961439204326,"total":949,"current":920}
+{"_e":"metro:bundling:progress","_t":1779470188928,"id":"2","progress":0.9569943289224953,"total":920,"current":900}
+{"_e":"metro:bundling:progress","_t":1779470188929,"id":"3","progress":0.9977961439204326,"total":958,"current":949}
+{"_e":"metro:bundling:progress","_t":1779470189042,"id":"2","progress":0.9891951089820865,"total":923,"current":918}
+{"_e":"metro:bundling:progress","_t":1779470189042,"id":"3","progress":0.9977961439204326,"total":958,"current":949}
+{"_e":"metro:bundling:progress","_t":1779470189336,"id":"2","progress":0.9891951089820865,"total":923,"current":918}
+{"_e":"metro:bundling:progress","_t":1779470189337,"id":"3","progress":0.9977961439204326,"total":958,"current":954}
+{"_e":"metro:bundling:progress","_t":1779470189437,"id":"2","progress":0.9891951089820865,"total":923,"current":918}
+{"_e":"metro:bundling:progress","_t":1779470189437,"id":"3","progress":0.9977961439204326,"total":976,"current":960}
+{"_e":"metro:bundling:progress","_t":1779470189537,"id":"2","progress":0.9891951089820865,"total":923,"current":918}
+{"_e":"metro:bundling:progress","_t":1779470189537,"id":"3","progress":0.9979518694571352,"total":976,"current":975}
+{"_e":"metro:bundling:progress","_t":1779470189643,"id":"2","progress":0.999,"total":941,"current":941}
+{"_e":"metro:bundling:progress","_t":1779470189643,"id":"3","progress":0.9979518694571352,"total":976,"current":975}
+{"_e":"metro:bundling:done","_t":1779470189808,"id":"3","total":976,"ms":13146.1318}
+{"_e":"metro:bundling:progress","_t":1779470189808,"id":"2","progress":0.999,"total":941,"current":941}
+{"_e":"metro:bundling:done","_t":1779470190337,"id":"2","total":941,"ms":13676.0576}
+{"_e":"metro:bundling:started","_t":1779470190366,"id":"4","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779470190367,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470190370,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470190479,"id":"4","progress":0.16796560064498792,"total":61,"current":25}
+{"_e":"metro:bundling:progress","_t":1779470190580,"id":"4","progress":0.16796560064498792,"total":177,"current":47}
+{"_e":"metro:bundling:progress","_t":1779470190681,"id":"4","progress":0.16796560064498792,"total":244,"current":92}
+{"_e":"metro:bundling:progress","_t":1779470190781,"id":"4","progress":0.2484544086495605,"total":323,"current":161}
+{"_e":"metro:bundling:progress","_t":1779470190881,"id":"4","progress":0.2484544086495605,"total":382,"current":172}
+{"_e":"metro:bundling:progress","_t":1779470190981,"id":"4","progress":0.3750578892103682,"total":467,"current":286}
+{"_e":"metro:bundling:progress","_t":1779470191081,"id":"4","progress":0.4518414510478244,"total":543,"current":365}
+{"_e":"metro:bundling:progress","_t":1779470191181,"id":"4","progress":0.5830037127811885,"total":609,"current":465}
+{"_e":"metro:bundling:progress","_t":1779470191281,"id":"4","progress":0.7859452853032928,"total":661,"current":586}
+{"_e":"metro:bundling:progress","_t":1779470191381,"id":"4","progress":0.8262111778619976,"total":703,"current":639}
+{"_e":"metro:bundling:progress","_t":1779470191481,"id":"4","progress":0.8262111778619976,"total":815,"current":730}
+{"_e":"metro:bundling:progress","_t":1779470191581,"id":"4","progress":0.955115056475522,"total":837,"current":818}
+{"_e":"metro:bundling:progress","_t":1779470191682,"id":"4","progress":0.955115056475522,"total":907,"current":873}
+{"_e":"metro:bundling:progress","_t":1779470191788,"id":"4","progress":0.9613770631120668,"total":923,"current":905}
+{"_e":"metro:bundling:progress","_t":1779470191892,"id":"4","progress":0.9936608717561098,"total":945,"current":942}
+{"_e":"metro:bundling:done","_t":1779470191945,"id":"4","total":945,"ms":1578.6746}
+{"_e":"metro:client_log","_t":1779470192143,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1779470194006,"id":"6","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779470194006,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779470194007,"id":"7","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779470194007,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194007,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194007,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194007,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194157,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194157,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194230,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194230,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194330,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194330,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194430,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194430,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194530,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194530,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194630,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194630,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194730,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194730,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194830,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470194830,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470194914,"id":"7","total":1,"ms":907.4891}
+{"_e":"metro:bundling:progress","_t":1779470194914,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470195000,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470195227,"id":"6","total":1,"ms":1221.0926}
+{"_e":"metro:bundling:failed","_t":1779470461196,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\_layout.tsx: Unexpected token (5:0)\n\n  3 | export default function RootLayout() {\n  4 |   return <Stack\n> 5 | }\n    | ^\n  6 |","importStack":null,"filename":"src\\app\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779470461377,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\_layout.tsx: Unexpected token (5:0)\n\n  3 | export default function RootLayout() {\n  4 |   return <Stack\n> 5 | }\n    | ^\n  6 |","importStack":null,"filename":"src\\app\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779470464206,"id":"e","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779470466997,"id":"f","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779470475031,"id":"g","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779470478286,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\_layout.tsx: Unexpected token (7:2)\n\n  5 |   <Stack>\n  6 |     <Stack\n> 7 |   </Stack>\n    |   ^\n  8 | }\n  9 |","importStack":null,"filename":"src\\app\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779470482767,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\_layout.tsx: Unexpected token (7:2)\n\n  5 |   <Stack>\n  6 |     <Stack.Scree\n> 7 |   </Stack>\n    |   ^\n  8 | }\n  9 |","importStack":null,"filename":"src\\app\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779470483843,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\_layout.tsx: Unexpected token (7:2)\n\n  5 |   <Stack>\n  6 |     <Stack.Screen\n> 7 |   </Stack>\n    |   ^\n  8 | }\n  9 |","importStack":null,"filename":"src\\app\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779470485716,"id":"k","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779470487326,"id":"l","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779470490141,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\_layout.tsx: JSX value should be either an expression or a quoted JSX text. (6:24)\n\n  4 |   return \n  5 |   <Stack>\n> 6 |     <Stack.Screen name= />\n    |                         ^\n  7 |   </Stack>\n  8 | }\n  9 |","importStack":null,"filename":"src\\app\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779470493131,"id":"p","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779470496034,"id":"q","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779470497448,"id":"r","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779470498648,"id":"s","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779470504972,"id":"t","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779470506764,"id":"u","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779470511629,"id":"v","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779470514547,"id":"w","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779470519833,"id":"y","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779470519833,"id":"y","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779470519833,"id":"z","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779470519833,"id":"y","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470519833,"id":"z","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470519834,"id":"y","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470519834,"id":"z","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470519917,"id":"z","total":1,"ms":83.6882}
+{"_e":"metro:bundling:progress","_t":1779470519917,"id":"y","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470520327,"id":"y","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470520356,"id":"y","total":1,"ms":523.0395}
+{"_e":"metro:bundling:started","_t":1779470520391,"id":"10","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779470520391,"id":"10","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470520439,"id":"10","total":1,"ms":48.3446}
+{"_e":"metro:bundling:started","_t":1779470520461,"id":"12","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779470520462,"id":"12","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779470520462,"id":"13","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779470520462,"id":"12","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470520462,"id":"13","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470520499,"id":"13","total":1,"ms":36.9407}
+{"_e":"metro:bundling:progress","_t":1779470520499,"id":"12","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470520738,"id":"12","total":1,"ms":276.3689}
+{"_e":"metro:client_log","_t":1779470520895,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1779470543690,"format":"v0-jsonl","version":"56.1.10"}
+{"_e":"env:mode","_t":1779470543691,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1779470543694,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1779470544031,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1779470544379,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1779470551339,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1779470644124,"id":"2","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779470644125,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779470644128,"id":"3","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779470644128,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470644128,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470644135,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470644135,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470644235,"id":"2","progress":0.12098298676748581,"total":23,"current":8}
+{"_e":"metro:bundling:progress","_t":1779470644235,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470644362,"id":"2","progress":0.12098298676748581,"total":50,"current":13}
+{"_e":"metro:bundling:progress","_t":1779470644362,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470644463,"id":"2","progress":0.12098298676748581,"total":123,"current":28}
+{"_e":"metro:bundling:progress","_t":1779470644464,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470644564,"id":"2","progress":0.1325525497219342,"total":206,"current":75}
+{"_e":"metro:bundling:progress","_t":1779470644564,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470644663,"id":"2","progress":0.13986383766276686,"total":246,"current":92}
+{"_e":"metro:bundling:progress","_t":1779470644663,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470644763,"id":"2","progress":0.13986383766276686,"total":246,"current":92}
+{"_e":"metro:bundling:progress","_t":1779470644763,"id":"3","progress":0.1782716049382716,"total":45,"current":19}
+{"_e":"metro:bundling:progress","_t":1779470644864,"id":"2","progress":0.23170353346739445,"total":295,"current":142}
+{"_e":"metro:bundling:progress","_t":1779470644864,"id":"3","progress":0.1782716049382716,"total":45,"current":19}
+{"_e":"metro:bundling:progress","_t":1779470644964,"id":"2","progress":0.23263570043873075,"total":396,"current":191}
+{"_e":"metro:bundling:progress","_t":1779470644964,"id":"3","progress":0.1782716049382716,"total":45,"current":19}
+{"_e":"metro:bundling:progress","_t":1779470645073,"id":"2","progress":0.3667131421557808,"total":431,"current":261}
+{"_e":"metro:bundling:progress","_t":1779470645073,"id":"3","progress":0.1782716049382716,"total":45,"current":19}
+{"_e":"metro:bundling:progress","_t":1779470645183,"id":"2","progress":0.3667131421557808,"total":431,"current":261}
+{"_e":"metro:bundling:progress","_t":1779470645183,"id":"3","progress":0.1782716049382716,"total":125,"current":43}
+{"_e":"metro:bundling:progress","_t":1779470645298,"id":"2","progress":0.3667131421557808,"total":450,"current":268}
+{"_e":"metro:bundling:progress","_t":1779470645299,"id":"3","progress":0.1782716049382716,"total":125,"current":43}
+{"_e":"metro:bundling:progress","_t":1779470645398,"id":"2","progress":0.3667131421557808,"total":450,"current":268}
+{"_e":"metro:bundling:progress","_t":1779470645398,"id":"3","progress":0.23701523545706374,"total":152,"current":74}
+{"_e":"metro:bundling:progress","_t":1779470645498,"id":"2","progress":0.3667131421557808,"total":450,"current":268}
+{"_e":"metro:bundling:progress","_t":1779470645498,"id":"3","progress":0.23701523545706374,"total":205,"current":86}
+{"_e":"metro:bundling:progress","_t":1779470645598,"id":"2","progress":0.3667131421557808,"total":450,"current":268}
+{"_e":"metro:bundling:progress","_t":1779470645598,"id":"3","progress":0.23701523545706374,"total":223,"current":103}
+{"_e":"metro:bundling:progress","_t":1779470645707,"id":"2","progress":0.3667131421557808,"total":452,"current":270}
+{"_e":"metro:bundling:progress","_t":1779470645707,"id":"3","progress":0.23701523545706374,"total":223,"current":103}
+{"_e":"metro:bundling:progress","_t":1779470645807,"id":"2","progress":0.4031633518710529,"total":515,"current":327}
+{"_e":"metro:bundling:progress","_t":1779470645807,"id":"3","progress":0.23701523545706374,"total":223,"current":103}
+{"_e":"metro:bundling:progress","_t":1779470645907,"id":"2","progress":0.459046924142882,"total":583,"current":395}
+{"_e":"metro:bundling:progress","_t":1779470645907,"id":"3","progress":0.23701523545706374,"total":223,"current":103}
+{"_e":"metro:bundling:progress","_t":1779470646011,"id":"2","progress":0.459046924142882,"total":583,"current":395}
+{"_e":"metro:bundling:progress","_t":1779470646011,"id":"3","progress":0.23701523545706374,"total":299,"current":126}
+{"_e":"metro:bundling:progress","_t":1779470646112,"id":"2","progress":0.459046924142882,"total":583,"current":395}
+{"_e":"metro:bundling:progress","_t":1779470646112,"id":"3","progress":0.23701523545706374,"total":335,"current":157}
+{"_e":"metro:bundling:progress","_t":1779470646212,"id":"2","progress":0.459046924142882,"total":583,"current":395}
+{"_e":"metro:bundling:progress","_t":1779470646212,"id":"3","progress":0.2681320913332693,"total":421,"current":218}
+{"_e":"metro:bundling:progress","_t":1779470646315,"id":"2","progress":0.459046924142882,"total":583,"current":395}
+{"_e":"metro:bundling:progress","_t":1779470646315,"id":"3","progress":0.3073015122873346,"total":460,"current":255}
+{"_e":"metro:bundling:progress","_t":1779470646417,"id":"2","progress":0.459046924142882,"total":583,"current":395}
+{"_e":"metro:bundling:progress","_t":1779470646417,"id":"3","progress":0.32181543064610846,"total":483,"current":274}
+{"_e":"metro:bundling:progress","_t":1779470646516,"id":"2","progress":0.5826476663982354,"total":676,"current":516}
+{"_e":"metro:bundling:progress","_t":1779470646516,"id":"3","progress":0.32181543064610846,"total":483,"current":274}
+{"_e":"metro:bundling:progress","_t":1779470646655,"id":"2","progress":0.6744171530226897,"total":716,"current":588}
+{"_e":"metro:bundling:progress","_t":1779470646655,"id":"3","progress":0.32181543064610846,"total":483,"current":274}
+{"_e":"metro:bundling:progress","_t":1779470646759,"id":"2","progress":0.6744171530226897,"total":716,"current":588}
+{"_e":"metro:bundling:progress","_t":1779470646759,"id":"3","progress":0.34738170687931574,"total":509,"current":300}
+{"_e":"metro:bundling:progress","_t":1779470646861,"id":"2","progress":0.6744171530226897,"total":716,"current":588}
+{"_e":"metro:bundling:progress","_t":1779470646861,"id":"3","progress":0.4459678176018015,"total":584,"current":390}
+{"_e":"metro:bundling:progress","_t":1779470646961,"id":"2","progress":0.6744171530226897,"total":716,"current":588}
+{"_e":"metro:bundling:progress","_t":1779470646961,"id":"3","progress":0.4680330768445469,"total":649,"current":444}
+{"_e":"metro:bundling:progress","_t":1779470647062,"id":"2","progress":0.6744171530226897,"total":716,"current":588}
+{"_e":"metro:bundling:progress","_t":1779470647062,"id":"3","progress":0.5019916751518484,"total":693,"current":491}
+{"_e":"metro:bundling:progress","_t":1779470647162,"id":"2","progress":0.8532120449670167,"total":747,"current":690}
+{"_e":"metro:bundling:progress","_t":1779470647162,"id":"3","progress":0.5019916751518484,"total":693,"current":491}
+{"_e":"metro:bundling:progress","_t":1779470647263,"id":"2","progress":0.8532120449670167,"total":747,"current":690}
+{"_e":"metro:bundling:progress","_t":1779470647263,"id":"3","progress":0.5091015339663989,"total":740,"current":528}
+{"_e":"metro:bundling:progress","_t":1779470647362,"id":"2","progress":0.8532120449670167,"total":747,"current":690}
+{"_e":"metro:bundling:progress","_t":1779470647362,"id":"3","progress":0.5902504264881788,"total":807,"current":620}
+{"_e":"metro:bundling:progress","_t":1779470647462,"id":"2","progress":0.8532120449670167,"total":747,"current":690}
+{"_e":"metro:bundling:progress","_t":1779470647462,"id":"3","progress":0.7201076175362031,"total":852,"current":723}
+{"_e":"metro:bundling:progress","_t":1779470647562,"id":"2","progress":0.8532120449670167,"total":747,"current":690}
+{"_e":"metro:bundling:progress","_t":1779470647562,"id":"3","progress":0.7478822653647829,"total":858,"current":742}
+{"_e":"metro:bundling:progress","_t":1779470647696,"id":"2","progress":0.8532120449670167,"total":747,"current":690}
+{"_e":"metro:bundling:progress","_t":1779470647696,"id":"3","progress":0.8928017856035712,"total":889,"current":840}
+{"_e":"metro:bundling:progress","_t":1779470647798,"id":"2","progress":0.9269659275283937,"total":860,"current":828}
+{"_e":"metro:bundling:progress","_t":1779470647798,"id":"3","progress":0.8928017856035712,"total":889,"current":840}
+{"_e":"metro:bundling:progress","_t":1779470647898,"id":"2","progress":0.9269659275283937,"total":902,"current":842}
+{"_e":"metro:bundling:progress","_t":1779470647898,"id":"3","progress":0.8928017856035712,"total":889,"current":840}
+{"_e":"metro:bundling:progress","_t":1779470647998,"id":"2","progress":0.9269659275283937,"total":921,"current":879}
+{"_e":"metro:bundling:progress","_t":1779470647998,"id":"3","progress":0.8928017856035712,"total":889,"current":840}
+{"_e":"metro:bundling:progress","_t":1779470648098,"id":"2","progress":0.9269659275283937,"total":921,"current":879}
+{"_e":"metro:bundling:progress","_t":1779470648098,"id":"3","progress":0.9712245326612057,"total":966,"current":952}
+{"_e":"metro:bundling:progress","_t":1779470648250,"id":"2","progress":0.9269659275283937,"total":921,"current":879}
+{"_e":"metro:bundling:progress","_t":1779470648250,"id":"3","progress":0.9958974402219515,"total":974,"current":972}
+{"_e":"metro:bundling:progress","_t":1779470648302,"id":"2","progress":0.9269659275283937,"total":921,"current":879}
+{"_e":"metro:bundling:progress","_t":1779470648303,"id":"3","progress":0.9979476660103134,"total":974,"current":973}
+{"_e":"metro:bundling:done","_t":1779470648418,"id":"3","total":974,"ms":4289.4526}
+{"_e":"metro:bundling:progress","_t":1779470648418,"id":"2","progress":0.9269659275283937,"total":921,"current":879}
+{"_e":"metro:bundling:progress","_t":1779470648558,"id":"2","progress":0.9269659275283937,"total":921,"current":879}
+{"_e":"metro:bundling:done","_t":1779470649301,"id":"2","total":921,"ms":5176.0977}
+{"_e":"metro:bundling:started","_t":1779470649361,"id":"4","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779470649361,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470649369,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470649470,"id":"4","progress":0.058344418772900176,"total":207,"current":50}
+{"_e":"metro:bundling:progress","_t":1779470649571,"id":"4","progress":0.22556233944347365,"total":379,"current":180}
+{"_e":"metro:bundling:progress","_t":1779470649671,"id":"4","progress":0.3356828568391966,"total":485,"current":281}
+{"_e":"metro:bundling:progress","_t":1779470649772,"id":"4","progress":0.5045416678943857,"total":611,"current":434}
+{"_e":"metro:bundling:progress","_t":1779470649871,"id":"4","progress":0.6696343233026538,"total":699,"current":572}
+{"_e":"metro:bundling:progress","_t":1779470649971,"id":"4","progress":0.6975515745451141,"total":716,"current":598}
+{"_e":"metro:bundling:progress","_t":1779470650071,"id":"4","progress":0.8739742516991823,"total":783,"current":732}
+{"_e":"metro:bundling:progress","_t":1779470650175,"id":"4","progress":0.9272976680384086,"total":864,"current":832}
+{"_e":"metro:bundling:progress","_t":1779470650282,"id":"4","progress":0.999,"total":944,"current":944}
+{"_e":"metro:bundling:done","_t":1779470650373,"id":"4","total":944,"ms":1012.3832}
+{"_e":"metro:client_log","_t":1779470650714,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1779470708654,"id":"6","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779470708654,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779470708655,"id":"7","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779470708655,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470708655,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470708736,"id":"7","total":1,"ms":81.202}
+{"_e":"metro:bundling:progress","_t":1779470708736,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470709262,"id":"6","total":1,"ms":607.5157}
+{"_e":"metro:bundling:failed","_t":1779470744989,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\_layout.tsx: Unterminated JSX contents. (6:67)\n\n  4 |   return \n  5 |   <Stack>\n> 6 |     <Stack.Screen name=\"(tabs)\" options={{ headerShown: false }} />\n    |                                                                    ^\n  7 |   \n  8 | }\n  9 |","importStack":null,"filename":"src\\app\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779470747726,"id":"b","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779470751959,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\_layout.tsx: Unterminated JSX contents. (6:67)\n\n  4 |   return \n  5 |   <Stack>\n> 6 |     <Stack.Screen name=\"(tabs)\" options={{ headerShown: false }} />\n    |                                                                    ^\n  7 |   />\n  8 | }\n  9 |","importStack":null,"filename":"src\\app\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1779470754972,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\_layout.tsx: Unexpected token (6:4)\n\n  4 |   return \n  5 |   <Stack\n> 6 |     <Stack.Screen name=\"(tabs)\" options={{ headerShown: false }} />\n    |     ^\n  7 |   />\n  8 | }\n  9 |","importStack":null,"filename":"src\\app\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779470760876,"id":"f","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:failed","_t":1779470880371,"id":null,"message":"SyntaxError: C:\\Users\\ASUS\\workspace\\Fundação\\PDMII\\Being\\src\\app\\_layout.tsx: Unterminated JSX contents. (5:9)\n\n  3 | export default function RootLayout() {\n  4 |   return \n> 5 |   <Stack>\n    |          ^\n  6 | }\n  7 |","importStack":null,"filename":"src\\app\\_layout.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1779470882360,"id":"j","platform":"web","environment":null,"entry":"src\\app\\_layout.tsx"}
+{"_e":"metro:bundling:started","_t":1779470889670,"id":"l","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779470889671,"id":"l","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779470889671,"id":"m","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779470889671,"id":"l","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470889671,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470889672,"id":"l","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470889672,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470889837,"id":"l","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470889837,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470889877,"id":"m","total":1,"ms":206.0664}
+{"_e":"metro:bundling:progress","_t":1779470889877,"id":"l","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470890668,"id":"l","total":1,"ms":997.0792}
+{"_e":"metro:bundling:started","_t":1779470890712,"id":"n","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779470890712,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470890785,"id":"n","total":1,"ms":72.7949}
+{"_e":"metro:bundling:started","_t":1779470890821,"id":"p","platform":"web","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1779470890821,"id":"p","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1779470890822,"id":"q","platform":"web","environment":"node","entry":"node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\router-server\\node\\render.js"}
+{"_e":"metro:bundling:progress","_t":1779470890822,"id":"p","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1779470890822,"id":"q","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470890895,"id":"q","total":1,"ms":73.3896}
+{"_e":"metro:bundling:progress","_t":1779470890895,"id":"p","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1779470891380,"id":"p","total":1,"ms":559.0101}
+{"_e":"metro:client_log","_t":1779470891528,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1779470924946,"format":"v0-jsonl","version":"56.1.10"}
+{"_e":"env:mode","_t":1779470924947,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1779470924949,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1779470925295,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1779470925629,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
